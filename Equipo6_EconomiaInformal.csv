@@ -1,0 +1,1301 @@
+ID_Trabajador,Edad,Sexo,Departamento,Zona,Tipo_Actividad,Horas_Trabajadas_Semana,Ingreso_Mensual,Acceso_Beneficios,Tiene_Contrato_Escrito,Formalidad
+1,58,Masculino,Lima,Urbana,Servicio doméstico,25,920.73,Solo salud,No,Informal
+2,20,Masculino,Arequipa,Urbana,Comercio ambulante,33,1628.77,Salud y pensión,No,Formal
+3,50,Masculino,Huancavelica,Urbana,Empleo formal,38,1108.75,Ninguno,Sí,Informal
+4,19,Masculino,Huancavelica,Urbana,Empleo formal,22,1099.76,Ninguno,No,Formal
+5,63,Femenino,Cusco,Urbana,Empleo formal,12,757.28,Salud y pensión,No,Informal
+6,46,Masculino,Huancavelica,Urbana,Freelance,30,1530.4,Ninguno,Sí,Formal
+7,59,Masculino,San Martín,Urbana,Servicio doméstico,23,1878.78,Ninguno,Sí,Informal
+8,55,Masculino,Cusco,Urbana,Servicio doméstico,14,1784.19,Ninguno,Sí,Informal
+9,63,Masculino,Arequipa,Urbana,Microempresa,46,1102.62,Salud y pensión,Sí,Informal
+10,55,Masculino,Lima,Urbana,Empleo formal,29,1198.8,Ninguno,No,Informal
+11,41,Masculino,Cusco,Rural,Freelance,33,1442.62,Ninguno,No,Informal
+12,32,Masculino,Lambayeque,Urbana,Microempresa,52,835.13,Ninguno,No,Informal
+13,53,Masculino,Lima,Urbana,Freelance,55,953.11,Ninguno,No,Formal
+14,31,Masculino,Lambayeque,Rural,Comercio ambulante,58,1864.41,Ninguno,No,Informal
+15,50,Femenino,San Martín,Urbana,Empleo formal,45,1326.13,Ninguno,No,Informal
+16,50,Femenino,Cusco,Rural,Microempresa,14,1362.28,Solo salud,No,Informal
+17,38,Femenino,Lima,Urbana,Microempresa,19,311.44,Ninguno,No,Formal
+18,39,Masculino,San Martín,Rural,Comercio ambulante,41,34.42,Ninguno,No,Formal
+19,36,Masculino,Lambayeque,Urbana,Microempresa,48,2152.01,Ninguno,Sí,Formal
+20,49,Masculino,Lima,Urbana,Comercio ambulante,45,806.88,Solo salud,Sí,Informal
+21,54,Masculino,Lima,Urbana,Comercio ambulante,37,1672.8,Salud y pensión,Sí,Informal
+22,50,Femenino,Huancavelica,Rural,Empleo formal,15,1190.57,Ninguno,No,Informal
+23,31,Femenino,Huancavelica,Rural,Freelance,34,1729.21,Salud y pensión,No,Informal
+24,42,Femenino,San Martín,Urbana,Empleo formal,16,1864.85,Ninguno,No,Informal
+25,40,Femenino,Huancavelica,Urbana,Empleo formal,33,1149.64,Ninguno,No,Informal
+26,22,Masculino,Cusco,Urbana,Freelance,41,838.86,Ninguno,Sí,Informal
+27,38,Masculino,Arequipa,Rural,Comercio ambulante,10,1414.52,Solo salud,No,Informal
+28,32,Femenino,San Martín,Rural,Microempresa,47,848.49,Ninguno,Sí,Informal
+29,30,Femenino,San Martín,Urbana,Microempresa,54,955.56,Salud y pensión,No,Informal
+30,51,Masculino,Lambayeque,Urbana,Microempresa,49,1041.89,Salud y pensión,Sí,Informal
+31,36,Femenino,Arequipa,Urbana,Microempresa,23,790.87,Solo salud,No,Informal
+32,62,Femenino,Cusco,Urbana,Comercio ambulante,20,1203.83,Solo salud,No,Formal
+33,41,Masculino,Lima,Urbana,Servicio doméstico,55,1166.62,Salud y pensión,No,Informal
+34,20,Masculino,Arequipa,Rural,Empleo formal,23,609.35,Ninguno,No,Informal
+35,50,Masculino,Huancavelica,Urbana,Microempresa,55,695.38,Solo salud,Sí,Informal
+36,63,Femenino,Lambayeque,Urbana,Microempresa,43,1177.04,Ninguno,Sí,Informal
+37,21,Masculino,Huancavelica,Urbana,Microempresa,58,1108.3,Salud y pensión,Sí,Formal
+38,20,Masculino,Lambayeque,Urbana,Microempresa,51,1345.5,Salud y pensión,Sí,Informal
+39,61,Femenino,Arequipa,Urbana,Microempresa,34,830.69,Ninguno,Sí,Informal
+40,50,Femenino,Lambayeque,Urbana,Microempresa,44,480.97,Ninguno,No,Informal
+41,62,Masculino,Arequipa,Urbana,Comercio ambulante,49,925.02,Ninguno,Sí,Informal
+42,21,Masculino,San Martín,Urbana,Comercio ambulante,43,470.13,Salud y pensión,Sí,Informal
+43,59,Femenino,Lambayeque,Urbana,Empleo formal,12,1232.92,Salud y pensión,No,Informal
+44,62,Masculino,Huancavelica,Urbana,Microempresa,20,853.19,Ninguno,No,Informal
+45,44,Masculino,Lima,Urbana,Empleo formal,20,420.12,Ninguno,Sí,Informal
+46,53,Masculino,Cusco,Urbana,Empleo formal,58,1183.74,Salud y pensión,No,Formal
+47,33,Femenino,Arequipa,Rural,Microempresa,25,1016.17,Solo salud,No,Informal
+48,34,Femenino,Huancavelica,Urbana,Microempresa,28,629.0,Solo salud,Sí,Informal
+49,37,Femenino,Lambayeque,Urbana,Microempresa,37,1442.74,Ninguno,No,Informal
+50,42,Masculino,Arequipa,Rural,Servicio doméstico,21,216.86,Ninguno,No,Formal
+51,29,Femenino,Huancavelica,Urbana,Microempresa,29,1941.96,Ninguno,No,Formal
+52,55,Masculino,San Martín,Rural,Empleo formal,34,71.46,Ninguno,No,Informal
+53,43,Femenino,San Martín,Urbana,Servicio doméstico,22,1237.53,Ninguno,No,Formal
+54,63,Femenino,Lima,Urbana,Microempresa,24,1662.99,Ninguno,No,Formal
+55,29,Masculino,San Martín,Urbana,Microempresa,58,1712.64,Salud y pensión,No,Informal
+56,22,Femenino,Cusco,Urbana,Empleo formal,17,603.58,Solo salud,No,Informal
+57,22,Masculino,Lima,Urbana,Servicio doméstico,47,1802.69,Solo salud,No,Informal
+58,38,Masculino,Lima,Urbana,Empleo formal,11,959.91,Ninguno,Sí,Informal
+59,45,Masculino,Lambayeque,Urbana,Empleo formal,11,1278.8,Salud y pensión,No,Informal
+60,37,Masculino,Lambayeque,Urbana,Comercio ambulante,52,897.56,Salud y pensión,Sí,Informal
+61,30,Femenino,Arequipa,Urbana,Microempresa,10,1112.56,Ninguno,No,Informal
+62,18,Masculino,Lambayeque,Urbana,Microempresa,28,1413.69,Salud y pensión,Sí,Formal
+63,46,Femenino,Lima,Urbana,Comercio ambulante,22,1144.16,Solo salud,Sí,Informal
+64,23,Femenino,San Martín,Rural,Empleo formal,21,1072.41,Salud y pensión,Sí,Informal
+65,52,Femenino,Huancavelica,Urbana,Microempresa,40,1749.67,Salud y pensión,Sí,Informal
+66,44,Femenino,Cusco,Urbana,Empleo formal,14,568.05,Solo salud,Sí,Informal
+67,63,Masculino,Huancavelica,Urbana,Comercio ambulante,36,781.44,Solo salud,Sí,Informal
+68,44,Masculino,Lambayeque,Urbana,Servicio doméstico,51,918.11,Ninguno,Sí,Informal
+69,52,Masculino,Arequipa,Urbana,Servicio doméstico,23,1282.39,Ninguno,No,Informal
+70,45,Femenino,Cusco,Rural,Empleo formal,51,1761.5,Solo salud,No,Informal
+71,38,Masculino,Cusco,Urbana,Microempresa,12,1351.13,Salud y pensión,No,Informal
+72,21,Femenino,Lima,Rural,Empleo formal,42,468.56,Solo salud,No,Formal
+73,54,Masculino,Lambayeque,Urbana,Freelance,34,1128.17,Salud y pensión,No,Formal
+74,56,Femenino,Cusco,Urbana,Comercio ambulante,49,800.21,Ninguno,Sí,Formal
+75,42,Masculino,San Martín,Urbana,Empleo formal,46,1423.34,Ninguno,No,Formal
+76,24,Femenino,San Martín,Urbana,Servicio doméstico,53,891.84,Ninguno,No,Informal
+77,46,Femenino,Cusco,Urbana,Comercio ambulante,43,972.73,Ninguno,No,Formal
+78,59,Femenino,San Martín,Rural,Empleo formal,54,1547.95,Solo salud,No,Informal
+79,36,Masculino,Arequipa,Urbana,Comercio ambulante,21,1273.78,Ninguno,Sí,Informal
+80,52,Femenino,Huancavelica,Rural,Servicio doméstico,46,1612.56,Ninguno,No,Informal
+81,40,Masculino,Arequipa,Urbana,Empleo formal,36,1168.64,Ninguno,No,Formal
+82,48,Masculino,Cusco,Urbana,Empleo formal,12,948.51,Solo salud,Sí,Informal
+83,61,Femenino,Huancavelica,Urbana,Empleo formal,31,492.73,Ninguno,No,Informal
+84,42,Masculino,Lambayeque,Rural,Comercio ambulante,11,355.88,Ninguno,Sí,Informal
+85,58,Masculino,Lima,Rural,Microempresa,21,1080.95,Ninguno,No,Informal
+86,37,Femenino,San Martín,Rural,Comercio ambulante,38,1516.29,Solo salud,No,Formal
+87,37,Femenino,Huancavelica,Urbana,Microempresa,41,687.49,Ninguno,Sí,Informal
+88,20,Femenino,San Martín,Urbana,Microempresa,26,765.56,Ninguno,No,Informal
+89,22,Masculino,Lambayeque,Urbana,Microempresa,30,1619.96,Ninguno,No,Informal
+90,25,Masculino,Arequipa,Urbana,Microempresa,51,1336.99,Ninguno,Sí,Informal
+91,64,Femenino,San Martín,Rural,Comercio ambulante,10,2033.29,Ninguno,No,Informal
+92,20,Masculino,Cusco,Urbana,Comercio ambulante,36,1027.6,Solo salud,No,Informal
+93,34,Masculino,Lambayeque,Urbana,Comercio ambulante,54,701.68,Solo salud,Sí,Informal
+94,37,Femenino,Lambayeque,Rural,Microempresa,16,592.01,Solo salud,Sí,Informal
+95,27,Femenino,Lambayeque,Urbana,Comercio ambulante,46,988.4,Ninguno,No,Informal
+96,49,Masculino,Lima,Urbana,Servicio doméstico,43,1076.81,Salud y pensión,No,Informal
+97,42,Femenino,Huancavelica,Urbana,Servicio doméstico,22,773.0,Salud y pensión,No,Formal
+98,61,Femenino,Huancavelica,Urbana,Microempresa,13,575.18,Solo salud,Sí,Formal
+99,40,Femenino,Cusco,Rural,Empleo formal,22,1713.2,Solo salud,No,Informal
+100,64,Femenino,Huancavelica,Urbana,Empleo formal,53,786.7,Ninguno,No,Informal
+101,38,Femenino,Cusco,Rural,Comercio ambulante,25,736.85,Ninguno,No,Informal
+102,20,Masculino,Arequipa,Rural,Servicio doméstico,46,1525.33,Solo salud,Sí,Formal
+103,26,Femenino,Cusco,Urbana,Empleo formal,37,1528.75,Solo salud,No,Informal
+104,35,Femenino,Lima,Urbana,Microempresa,53,1311.94,Ninguno,No,Formal
+105,27,Femenino,Arequipa,Urbana,Comercio ambulante,15,866.04,Salud y pensión,Sí,Formal
+106,60,Femenino,San Martín,Urbana,Empleo formal,44,1184.66,Solo salud,No,Informal
+107,62,Masculino,Lima,Urbana,Microempresa,57,1184.47,Ninguno,No,Formal
+108,25,Masculino,San Martín,Urbana,Servicio doméstico,35,915.06,Ninguno,No,Informal
+109,21,Masculino,Huancavelica,Urbana,Comercio ambulante,41,902.07,Solo salud,No,Informal
+110,35,Femenino,Lambayeque,Urbana,Comercio ambulante,39,1360.38,Solo salud,No,Informal
+111,28,Masculino,Lima,Urbana,Microempresa,39,652.97,Salud y pensión,No,Informal
+112,36,Femenino,San Martín,Urbana,Servicio doméstico,20,581.78,Ninguno,No,Formal
+113,63,Femenino,Lima,Urbana,Comercio ambulante,10,1437.67,Solo salud,No,Formal
+114,54,Femenino,Huancavelica,Urbana,Empleo formal,23,994.44,Ninguno,No,Informal
+115,27,Masculino,Huancavelica,Rural,Servicio doméstico,41,1952.96,Salud y pensión,No,Informal
+116,57,Femenino,Lima,Urbana,Freelance,58,1280.22,Solo salud,Sí,Informal
+117,45,Femenino,Lima,Urbana,Microempresa,14,1121.74,Ninguno,Sí,Informal
+118,21,Masculino,Lambayeque,Urbana,Empleo formal,20,1412.78,Ninguno,Sí,Informal
+119,24,Femenino,Huancavelica,Rural,Comercio ambulante,26,695.89,Ninguno,Sí,Informal
+120,39,Femenino,Arequipa,Rural,Comercio ambulante,46,594.25,Ninguno,No,Formal
+121,46,Masculino,Huancavelica,Rural,Microempresa,18,214.66,Ninguno,No,Informal
+122,33,Masculino,Lambayeque,Rural,Microempresa,19,1442.27,Solo salud,No,Informal
+123,33,Femenino,Huancavelica,Urbana,Microempresa,59,469.18,Ninguno,Sí,Informal
+124,19,Femenino,Lima,Urbana,Servicio doméstico,12,1442.09,Solo salud,No,Informal
+125,35,Masculino,Cusco,Rural,Servicio doméstico,12,1280.85,Ninguno,No,Informal
+126,48,Masculino,San Martín,Rural,Microempresa,25,2220.89,Ninguno,Sí,Informal
+127,62,Masculino,Lima,Urbana,Freelance,50,1677.56,Solo salud,No,Formal
+128,44,Masculino,San Martín,Urbana,Empleo formal,12,682.41,Solo salud,No,Informal
+129,34,Masculino,Arequipa,Rural,Servicio doméstico,25,1005.72,Ninguno,No,Informal
+130,42,Femenino,San Martín,Urbana,Servicio doméstico,55,1432.09,Ninguno,No,Formal
+131,50,Femenino,San Martín,Urbana,Servicio doméstico,26,907.13,Ninguno,Sí,Informal
+132,31,Masculino,Lambayeque,Rural,Microempresa,53,1102.92,Salud y pensión,Sí,Informal
+133,49,Masculino,Cusco,Urbana,Comercio ambulante,56,424.94,Solo salud,No,Informal
+134,43,Femenino,Huancavelica,Rural,Servicio doméstico,17,765.43,Ninguno,No,Informal
+135,24,Femenino,Cusco,Urbana,Freelance,32,348.15,Solo salud,No,Informal
+136,40,Masculino,San Martín,Urbana,Microempresa,30,805.35,Ninguno,Sí,Informal
+137,64,Femenino,Arequipa,Urbana,Comercio ambulante,37,1355.02,Solo salud,Sí,Informal
+138,42,Masculino,Lambayeque,Rural,Comercio ambulante,22,1277.24,Ninguno,No,Informal
+139,44,Femenino,Lima,Urbana,Empleo formal,56,751.95,Ninguno,No,Informal
+140,40,Masculino,San Martín,Urbana,Servicio doméstico,32,921.09,Solo salud,Sí,Informal
+141,53,Masculino,Arequipa,Rural,Comercio ambulante,14,1321.86,Solo salud,No,Formal
+142,57,Masculino,Arequipa,Urbana,Microempresa,48,482.57,Salud y pensión,No,Formal
+143,40,Masculino,San Martín,Urbana,Microempresa,43,1793.41,Salud y pensión,No,Informal
+144,59,Masculino,Arequipa,Rural,Servicio doméstico,41,1653.6,Salud y pensión,No,Formal
+145,41,Masculino,San Martín,Rural,Comercio ambulante,23,1061.78,Solo salud,Sí,Informal
+146,20,Masculino,Arequipa,Rural,Empleo formal,21,613.92,Salud y pensión,Sí,Formal
+147,19,Femenino,Lambayeque,Urbana,Servicio doméstico,52,863.16,Salud y pensión,Sí,Formal
+148,60,Masculino,San Martín,Urbana,Microempresa,28,1236.7,Salud y pensión,Sí,Formal
+149,51,Femenino,Huancavelica,Rural,Empleo formal,43,347.47,Salud y pensión,No,Informal
+150,36,Masculino,Cusco,Urbana,Empleo formal,14,1408.62,Ninguno,No,Informal
+151,33,Femenino,Lima,Urbana,Servicio doméstico,41,938.53,Solo salud,No,Formal
+152,60,Femenino,Lambayeque,Urbana,Comercio ambulante,42,951.17,Salud y pensión,No,Informal
+153,61,Masculino,Arequipa,Rural,Freelance,19,1158.69,Solo salud,No,Formal
+154,41,Masculino,Lambayeque,Urbana,Freelance,54,495.56,Ninguno,No,Informal
+155,61,Femenino,Lima,Urbana,Freelance,50,779.65,Salud y pensión,No,Informal
+156,36,Femenino,Arequipa,Rural,Microempresa,38,862.5,Ninguno,No,Informal
+157,49,Femenino,Lambayeque,Urbana,Microempresa,14,1152.87,Ninguno,No,Informal
+158,52,Masculino,Huancavelica,Urbana,Microempresa,28,1181.36,Solo salud,Sí,Informal
+159,57,Masculino,Huancavelica,Urbana,Microempresa,53,1372.21,Ninguno,No,Informal
+160,19,Femenino,Arequipa,Urbana,Comercio ambulante,43,1422.84,Ninguno,Sí,Formal
+161,39,Masculino,Cusco,Rural,Microempresa,24,1451.1,Salud y pensión,No,Informal
+162,44,Femenino,Huancavelica,Urbana,Microempresa,55,265.85,Ninguno,No,Formal
+163,37,Masculino,San Martín,Urbana,Microempresa,37,1088.6,Solo salud,No,Formal
+164,25,Femenino,Huancavelica,Urbana,Servicio doméstico,51,1058.76,Solo salud,Sí,Formal
+165,33,Masculino,Arequipa,Urbana,Empleo formal,46,1606.54,Ninguno,Sí,Informal
+166,37,Masculino,Arequipa,Urbana,Comercio ambulante,37,1768.88,Ninguno,No,Informal
+167,37,Masculino,San Martín,Urbana,Empleo formal,51,562.35,Ninguno,No,Informal
+168,20,Masculino,Huancavelica,Urbana,Comercio ambulante,34,1280.63,Solo salud,Sí,Informal
+169,54,Masculino,Huancavelica,Urbana,Comercio ambulante,13,1186.85,Ninguno,No,Informal
+170,35,Femenino,Huancavelica,Urbana,Servicio doméstico,28,1518.0,Salud y pensión,No,Informal
+171,29,Masculino,Arequipa,Urbana,Comercio ambulante,45,723.69,Salud y pensión,No,Informal
+172,29,Femenino,Lambayeque,Urbana,Microempresa,20,988.51,Salud y pensión,No,Informal
+173,36,Masculino,Huancavelica,Urbana,Comercio ambulante,30,1378.38,Ninguno,No,Informal
+174,22,Masculino,San Martín,Rural,Microempresa,19,1397.6,Salud y pensión,No,Formal
+175,22,Femenino,Cusco,Urbana,Comercio ambulante,42,1181.7,Ninguno,No,Informal
+176,60,Masculino,Arequipa,Urbana,Servicio doméstico,13,1246.61,Salud y pensión,No,Informal
+177,25,Masculino,Huancavelica,Urbana,Servicio doméstico,33,272.14,Solo salud,Sí,Formal
+178,40,Masculino,Cusco,Rural,Freelance,18,810.78,Ninguno,Sí,Informal
+179,31,Masculino,Huancavelica,Urbana,Freelance,25,1783.93,Ninguno,Sí,Informal
+180,44,Masculino,San Martín,Urbana,Empleo formal,13,1942.74,Salud y pensión,Sí,Informal
+181,45,Masculino,Lambayeque,Urbana,Microempresa,32,1024.9,Salud y pensión,No,Informal
+182,38,Masculino,Cusco,Rural,Empleo formal,27,1239.64,Ninguno,No,Formal
+183,43,Femenino,Cusco,Urbana,Microempresa,27,940.86,Salud y pensión,No,Informal
+184,55,Femenino,San Martín,Urbana,Comercio ambulante,10,1042.14,Salud y pensión,No,Informal
+185,41,Masculino,Lambayeque,Rural,Microempresa,30,1065.56,Salud y pensión,No,Informal
+186,44,Femenino,Cusco,Rural,Microempresa,15,1482.13,Ninguno,Sí,Informal
+187,60,Masculino,Lima,Rural,Microempresa,39,959.61,Solo salud,No,Informal
+188,54,Masculino,Huancavelica,Urbana,Comercio ambulante,47,1133.36,Ninguno,No,Informal
+189,37,Masculino,Cusco,Rural,Empleo formal,13,1230.29,Ninguno,No,Informal
+190,19,Femenino,Cusco,Urbana,Servicio doméstico,57,1100.03,Ninguno,No,Informal
+191,23,Femenino,Lima,Rural,Comercio ambulante,49,2038.07,Ninguno,Sí,Informal
+192,31,Masculino,Arequipa,Urbana,Freelance,10,1674.07,Solo salud,No,Formal
+193,33,Femenino,Lambayeque,Urbana,Microempresa,40,1236.32,Solo salud,No,Formal
+194,50,Femenino,Lambayeque,Urbana,Empleo formal,21,590.03,Ninguno,No,Informal
+195,39,Masculino,Arequipa,Urbana,Servicio doméstico,12,1293.22,Ninguno,No,Formal
+196,62,Masculino,Cusco,Rural,Microempresa,33,1147.17,Salud y pensión,Sí,Informal
+197,18,Masculino,Arequipa,Urbana,Microempresa,29,982.35,Ninguno,No,Informal
+198,36,Femenino,Lambayeque,Urbana,Microempresa,57,1435.7,Solo salud,No,Formal
+199,58,Masculino,Lima,Urbana,Comercio ambulante,27,1370.31,Solo salud,No,Informal
+200,53,Femenino,Lima,Urbana,Empleo formal,54,310.34,Ninguno,No,Formal
+201,35,Masculino,Cusco,Rural,Microempresa,15,1586.07,Salud y pensión,No,Informal
+202,38,Masculino,Lambayeque,Urbana,Microempresa,37,1632.99,Salud y pensión,No,Informal
+203,42,Masculino,Lambayeque,Urbana,Microempresa,26,1440.19,Ninguno,No,Informal
+204,25,Masculino,Lima,Urbana,Empleo formal,29,662.38,Salud y pensión,No,Informal
+205,61,Femenino,Cusco,Urbana,Microempresa,22,1111.79,Solo salud,No,Formal
+206,34,Masculino,Cusco,Urbana,Servicio doméstico,59,909.6,Solo salud,No,Formal
+207,59,Femenino,San Martín,Rural,Microempresa,24,1402.38,Ninguno,Sí,Informal
+208,60,Masculino,Huancavelica,Urbana,Microempresa,40,1604.22,Ninguno,No,Informal
+209,63,Masculino,San Martín,Urbana,Comercio ambulante,19,1702.17,Ninguno,No,Informal
+210,38,Masculino,Lima,Rural,Freelance,30,1729.75,Ninguno,Sí,Formal
+211,54,Masculino,Huancavelica,Urbana,Comercio ambulante,24,1448.54,Solo salud,No,Informal
+212,54,Femenino,Lambayeque,Urbana,Microempresa,36,752.01,Solo salud,Sí,Informal
+213,44,Femenino,Cusco,Urbana,Microempresa,52,1413.36,Solo salud,No,Informal
+214,49,Femenino,Lambayeque,Rural,Comercio ambulante,23,1039.09,Solo salud,No,Informal
+215,58,Masculino,Lambayeque,Urbana,Comercio ambulante,40,311.98,Solo salud,No,Formal
+216,22,Femenino,Arequipa,Urbana,Comercio ambulante,31,703.94,Ninguno,No,Formal
+217,58,Femenino,San Martín,Urbana,Comercio ambulante,56,991.25,Ninguno,No,Informal
+218,38,Femenino,Lambayeque,Urbana,Microempresa,52,1176.83,Salud y pensión,Sí,Informal
+219,27,Masculino,Huancavelica,Urbana,Servicio doméstico,57,1497.62,Solo salud,No,Formal
+220,52,Masculino,Arequipa,Urbana,Microempresa,46,1447.5,Ninguno,No,Formal
+221,53,Masculino,Lambayeque,Rural,Servicio doméstico,20,1215.21,Salud y pensión,Sí,Informal
+222,55,Masculino,Cusco,Rural,Servicio doméstico,56,2047.67,Ninguno,Sí,Informal
+223,42,Femenino,San Martín,Urbana,Empleo formal,54,771.92,Ninguno,Sí,Informal
+224,21,Masculino,Lima,Rural,Microempresa,15,753.33,Ninguno,No,Informal
+225,47,Femenino,Arequipa,Urbana,Empleo formal,50,1099.48,Ninguno,No,Informal
+226,23,Masculino,Arequipa,Urbana,Comercio ambulante,11,1510.41,Ninguno,No,Formal
+227,47,Masculino,San Martín,Urbana,Empleo formal,11,1039.77,Ninguno,No,Formal
+228,58,Masculino,Lima,Rural,Microempresa,20,684.48,Salud y pensión,No,Informal
+229,19,Masculino,Cusco,Urbana,Servicio doméstico,14,1055.36,Ninguno,No,Formal
+230,29,Masculino,Cusco,Urbana,Servicio doméstico,34,738.9,Solo salud,No,Formal
+231,19,Masculino,Lima,Urbana,Comercio ambulante,19,961.52,Ninguno,No,Formal
+232,28,Femenino,Cusco,Urbana,Comercio ambulante,55,476.19,Ninguno,No,Informal
+233,50,Masculino,Cusco,Urbana,Empleo formal,51,1125.39,Salud y pensión,Sí,Informal
+234,35,Masculino,Arequipa,Urbana,Empleo formal,41,1467.9,Ninguno,No,Informal
+235,60,Femenino,Arequipa,Rural,Microempresa,51,864.2,Ninguno,Sí,Formal
+236,30,Masculino,Arequipa,Urbana,Microempresa,53,722.76,Solo salud,No,Informal
+237,27,Femenino,Arequipa,Urbana,Microempresa,42,937.64,Ninguno,No,Informal
+238,62,Masculino,Lima,Urbana,Microempresa,52,1393.7,Ninguno,No,Informal
+239,54,Masculino,Huancavelica,Urbana,Microempresa,20,475.56,Salud y pensión,Sí,Informal
+240,30,Masculino,Lima,Rural,Empleo formal,31,718.86,Ninguno,Sí,Formal
+241,64,Masculino,Arequipa,Rural,Freelance,59,1075.48,Solo salud,No,Informal
+242,36,Femenino,San Martín,Rural,Servicio doméstico,19,1086.29,Ninguno,No,Informal
+243,63,Femenino,Lima,Urbana,Comercio ambulante,21,2085.6,Salud y pensión,No,Formal
+244,57,Masculino,Huancavelica,Urbana,Servicio doméstico,35,931.7,Solo salud,No,Informal
+245,50,Femenino,Huancavelica,Urbana,Comercio ambulante,34,1321.1,Ninguno,Sí,Formal
+246,60,Femenino,Arequipa,Urbana,Microempresa,31,1534.58,Ninguno,No,Formal
+247,60,Masculino,Lambayeque,Urbana,Microempresa,16,1112.06,Ninguno,No,Informal
+248,35,Femenino,Huancavelica,Urbana,Microempresa,17,14.95,Solo salud,Sí,Informal
+249,25,Masculino,Arequipa,Urbana,Comercio ambulante,38,1511.9415946439497,Ninguno,No,Formal
+250,56,Masculino,Lambayeque,Urbana,Microempresa,37,796.77,Solo salud,No,Informal
+251,28,Femenino,Huancavelica,Rural,Microempresa,13,826.51,Salud y pensión,Sí,Informal
+252,64,Femenino,San Martín,Urbana,Empleo formal,23,682.79,Solo salud,Sí,Formal
+253,39,Femenino,Cusco,Urbana,Comercio ambulante,37,623.29,Ninguno,Sí,Formal
+254,22,Femenino,San Martín,Urbana,Microempresa,59,1008.11,Ninguno,No,Informal
+255,40,Femenino,Cusco,Urbana,Empleo formal,40,904.24,Solo salud,Sí,Informal
+256,50,Masculino,Lima,Rural,Microempresa,37,1266.05,Salud y pensión,Sí,Informal
+257,45,Masculino,Lima,Urbana,Freelance,48,1288.74,Solo salud,Sí,Informal
+258,34,Femenino,San Martín,Rural,Empleo formal,37,1285.78,Ninguno,No,Informal
+259,29,Femenino,San Martín,Urbana,Freelance,27,1795.31,Ninguno,No,Formal
+260,40,Femenino,Lima,Rural,Servicio doméstico,38,1794.75,Ninguno,No,Informal
+261,40,Femenino,San Martín,Urbana,Comercio ambulante,21,782.83,Ninguno,Sí,Informal
+262,49,Femenino,Lambayeque,Urbana,Microempresa,14,903.36,Salud y pensión,No,Informal
+263,26,Femenino,Lambayeque,Rural,Servicio doméstico,45,837.69,Salud y pensión,Sí,Formal
+264,44,Femenino,Cusco,Urbana,Microempresa,17,1498.27,Ninguno,Sí,Formal
+265,51,Femenino,Lambayeque,Urbana,Microempresa,15,1733.92,Solo salud,No,Informal
+266,19,Femenino,Cusco,Urbana,Empleo formal,11,1135.37,Ninguno,Sí,Informal
+267,36,Femenino,Lima,Urbana,Microempresa,24,535.88,Ninguno,Sí,Informal
+268,21,Femenino,Arequipa,Urbana,Comercio ambulante,22,1457.46,Ninguno,Sí,Informal
+269,40,Femenino,Lima,Urbana,Microempresa,13,1353.2,Ninguno,No,Informal
+270,64,Femenino,San Martín,Rural,Microempresa,54,1044.11,Ninguno,Sí,Informal
+271,32,Femenino,Huancavelica,Urbana,Comercio ambulante,15,1052.62,Solo salud,Sí,Formal
+272,32,Masculino,Lima,Rural,Empleo formal,15,831.61,Solo salud,No,Informal
+273,19,Femenino,Lambayeque,Urbana,Microempresa,29,1530.71,Salud y pensión,No,Informal
+274,62,Femenino,Lambayeque,Urbana,Servicio doméstico,59,1897.98,Ninguno,No,Informal
+275,32,Masculino,Lima,Urbana,Comercio ambulante,38,320.16,Solo salud,No,Informal
+276,40,Femenino,Cusco,Urbana,Comercio ambulante,42,985.86,Ninguno,No,Informal
+277,58,Masculino,Cusco,Urbana,Microempresa,27,630.01,Ninguno,No,Informal
+278,26,Masculino,Cusco,Urbana,Freelance,16,1394.47,Ninguno,No,Formal
+279,57,Femenino,Lima,Urbana,Microempresa,59,1573.96,Ninguno,Sí,Formal
+280,33,Femenino,Lambayeque,Rural,Servicio doméstico,43,1596.51,Solo salud,Sí,Formal
+281,61,Masculino,Lima,Urbana,Empleo formal,49,958.76,Salud y pensión,No,Informal
+282,49,Masculino,Huancavelica,Urbana,Servicio doméstico,35,1253.53,Solo salud,No,Formal
+283,20,Masculino,Lambayeque,Rural,Comercio ambulante,55,937.9,Ninguno,Sí,Informal
+284,63,Masculino,Huancavelica,Urbana,Empleo formal,14,661.7,Solo salud,No,Formal
+285,53,Femenino,Lima,Rural,Servicio doméstico,37,666.48,Ninguno,No,Informal
+286,33,Masculino,Huancavelica,Urbana,Microempresa,25,1574.35,Ninguno,No,Informal
+287,53,Masculino,Huancavelica,Rural,Comercio ambulante,18,1608.49,Ninguno,No,Formal
+288,37,Masculino,Cusco,Urbana,Freelance,47,2005.93,Ninguno,Sí,Formal
+289,52,Femenino,Cusco,Urbana,Microempresa,27,157.76,Ninguno,No,Formal
+290,28,Masculino,Lima,Urbana,Comercio ambulante,51,1881.78,Ninguno,Sí,Informal
+291,21,Masculino,Cusco,Urbana,Microempresa,32,1072.16,Solo salud,No,Informal
+292,26,Masculino,San Martín,Urbana,Microempresa,37,726.88,Solo salud,No,Formal
+293,43,Femenino,Huancavelica,Urbana,Comercio ambulante,37,1260.64,Solo salud,Sí,Informal
+294,64,Femenino,Lima,Urbana,Comercio ambulante,49,745.69,Ninguno,No,Informal
+295,29,Masculino,Cusco,Urbana,Empleo formal,27,646.26,Salud y pensión,Sí,Informal
+296,62,Masculino,Huancavelica,Rural,Microempresa,57,782.77,Solo salud,No,Informal
+297,30,Masculino,Huancavelica,Urbana,Empleo formal,19,1166.36,Salud y pensión,Sí,Formal
+298,49,Femenino,San Martín,Urbana,Servicio doméstico,40,923.23,Ninguno,No,Formal
+299,30,Masculino,Arequipa,Urbana,Comercio ambulante,36,742.11,Salud y pensión,No,Informal
+300,47,Masculino,Lima,Urbana,Comercio ambulante,24,1139.9,Ninguno,No,Informal
+301,46,Femenino,Huancavelica,Urbana,Microempresa,34,1149.41,Solo salud,Sí,Informal
+302,36,Masculino,Arequipa,Urbana,Comercio ambulante,13,1033.29,Solo salud,No,Informal
+303,22,Masculino,San Martín,Urbana,Comercio ambulante,38,1705.56,Ninguno,No,Formal
+304,41,Femenino,Huancavelica,Urbana,Microempresa,14,991.63,Salud y pensión,No,Informal
+305,54,Masculino,Arequipa,Urbana,Empleo formal,44,1227.74,Solo salud,No,Informal
+306,60,Masculino,Huancavelica,Urbana,Microempresa,18,1187.98,Solo salud,No,Formal
+307,53,Masculino,Arequipa,Rural,Microempresa,23,874.75,Ninguno,No,Formal
+308,56,Femenino,Cusco,Urbana,Empleo formal,24,1660.13,Salud y pensión,Sí,Informal
+309,61,Masculino,Cusco,Urbana,Empleo formal,40,895.81,Ninguno,Sí,Formal
+310,42,Masculino,Lima,Urbana,Empleo formal,43,1487.47,Salud y pensión,No,Informal
+311,44,Femenino,Huancavelica,Rural,Microempresa,50,1774.17,Salud y pensión,No,Informal
+312,36,Femenino,San Martín,Rural,Comercio ambulante,39,1162.9,Salud y pensión,No,Informal
+313,24,Masculino,Cusco,Urbana,Servicio doméstico,37,1099.1,Ninguno,Sí,Informal
+314,18,Masculino,Cusco,Urbana,Microempresa,48,883.15,Ninguno,No,Formal
+315,20,Masculino,Cusco,Urbana,Empleo formal,13,1459.17,Ninguno,No,Formal
+316,62,Masculino,Huancavelica,Urbana,Servicio doméstico,38,345.15,Ninguno,No,Formal
+317,64,Masculino,Lambayeque,Rural,Comercio ambulante,33,1491.44,Salud y pensión,No,Formal
+318,34,Femenino,San Martín,Urbana,Comercio ambulante,20,2184.52,Ninguno,Sí,Informal
+319,52,Masculino,Cusco,Urbana,Comercio ambulante,37,1340.32,Salud y pensión,No,Informal
+320,18,Femenino,Huancavelica,Rural,Servicio doméstico,52,1850.44,Solo salud,No,Informal
+321,43,Masculino,Cusco,Rural,Microempresa,13,648.4,Ninguno,No,Informal
+322,57,Masculino,Lambayeque,Rural,Microempresa,11,1347.52,Solo salud,Sí,Informal
+323,21,Masculino,Lambayeque,Rural,Microempresa,20,1077.11,Ninguno,No,Formal
+324,41,Femenino,San Martín,Rural,Microempresa,32,694.15,Salud y pensión,No,Informal
+325,61,Femenino,Lambayeque,Urbana,Empleo formal,26,1521.32,Ninguno,No,Informal
+326,60,Masculino,San Martín,Urbana,Microempresa,51,523.09,Ninguno,No,Formal
+327,29,Femenino,San Martín,Urbana,Servicio doméstico,52,1052.34,Ninguno,No,Informal
+328,18,Femenino,Cusco,Urbana,Comercio ambulante,31,962.84,Ninguno,Sí,Formal
+329,21,Femenino,Huancavelica,Urbana,Empleo formal,42,472.94,Ninguno,No,Formal
+330,61,Masculino,Arequipa,Urbana,Freelance,54,839.08,Solo salud,No,Informal
+331,47,Masculino,Arequipa,Urbana,Empleo formal,42,1683.72,Ninguno,No,Formal
+332,42,Masculino,Lima,Urbana,Comercio ambulante,20,841.55,Solo salud,Sí,Formal
+333,36,Masculino,Huancavelica,Rural,Empleo formal,21,1974.79,Ninguno,No,Informal
+334,50,Femenino,Huancavelica,Urbana,Comercio ambulante,33,790.82,Solo salud,Sí,Informal
+335,57,Femenino,Cusco,Rural,Comercio ambulante,12,1239.48,Salud y pensión,No,Informal
+336,48,Masculino,Lima,Urbana,Empleo formal,23,1497.01,Solo salud,No,Formal
+337,45,Femenino,Lima,Urbana,Microempresa,17,888.41,Ninguno,No,Informal
+338,49,Masculino,Lima,Rural,Microempresa,10,1476.57,Ninguno,No,Informal
+339,26,Femenino,Huancavelica,Urbana,Servicio doméstico,16,895.15,Ninguno,No,Informal
+340,61,Masculino,Huancavelica,Urbana,Comercio ambulante,47,816.01,Ninguno,No,Informal
+341,48,Masculino,Arequipa,Urbana,Freelance,36,830.81,Ninguno,Sí,Formal
+342,37,Masculino,Huancavelica,Urbana,Microempresa,23,1547.71,Ninguno,Sí,Informal
+343,20,Femenino,Huancavelica,Urbana,Microempresa,40,1948.04,Ninguno,No,Informal
+344,18,Masculino,Arequipa,Rural,Empleo formal,43,1481.68,Solo salud,No,Informal
+345,42,Masculino,San Martín,Rural,Microempresa,56,1034.23,Solo salud,No,Informal
+346,45,Femenino,Lambayeque,Urbana,Empleo formal,22,1766.87,Solo salud,Sí,Informal
+347,36,Masculino,Lambayeque,Urbana,Comercio ambulante,16,1760.18,Ninguno,No,Informal
+348,31,Femenino,San Martín,Urbana,Microempresa,23,1288.68,Ninguno,No,Informal
+349,40,Femenino,Huancavelica,Rural,Freelance,51,791.46,Solo salud,Sí,Formal
+350,47,Femenino,Arequipa,Urbana,Comercio ambulante,22,1279.74,Solo salud,No,Informal
+351,34,Masculino,Cusco,Urbana,Empleo formal,43,715.25,Ninguno,No,Informal
+352,43,Masculino,Lambayeque,Urbana,Microempresa,35,1956.74,Ninguno,No,Informal
+353,52,Femenino,San Martín,Urbana,Servicio doméstico,41,1293.37,Ninguno,Sí,Informal
+354,30,Masculino,Lima,Urbana,Comercio ambulante,47,927.48,Solo salud,No,Informal
+355,28,Masculino,Lima,Urbana,Servicio doméstico,54,1121.0,Solo salud,No,Formal
+356,63,Masculino,Huancavelica,Urbana,Microempresa,25,983.98,Salud y pensión,No,Informal
+357,48,Femenino,Lima,Urbana,Empleo formal,39,1042.28,Solo salud,No,Formal
+358,37,Femenino,Huancavelica,Urbana,Microempresa,41,1467.13,Solo salud,No,Formal
+359,18,Femenino,Lima,Urbana,Microempresa,38,1437.64,Ninguno,No,Informal
+360,64,Masculino,Lima,Rural,Comercio ambulante,31,527.0,Solo salud,No,Informal
+361,31,Femenino,Cusco,Rural,Comercio ambulante,27,1342.93,Ninguno,No,Informal
+362,23,Masculino,Huancavelica,Urbana,Freelance,55,1302.15,Salud y pensión,No,Informal
+363,27,Femenino,Lima,Urbana,Servicio doméstico,16,1168.2,Salud y pensión,Sí,Informal
+364,18,Femenino,San Martín,Urbana,Servicio doméstico,36,303.64,Ninguno,Sí,Formal
+365,56,Masculino,San Martín,Urbana,Microempresa,23,963.95,Ninguno,No,Informal
+366,35,Masculino,Cusco,Rural,Comercio ambulante,38,1315.08,Solo salud,Sí,Formal
+367,23,Masculino,Cusco,Urbana,Empleo formal,45,1304.0,Ninguno,Sí,Informal
+368,47,Femenino,Huancavelica,Rural,Comercio ambulante,35,1450.66,Salud y pensión,No,Formal
+369,19,Masculino,Arequipa,Urbana,Servicio doméstico,41,654.71,Salud y pensión,Sí,Informal
+370,35,Masculino,San Martín,Rural,Microempresa,30,702.32,Ninguno,No,Informal
+371,60,Femenino,Cusco,Urbana,Microempresa,23,1279.22,Ninguno,Sí,Formal
+372,31,Femenino,Lima,Urbana,Empleo formal,26,867.16,Ninguno,No,Informal
+373,29,Masculino,Huancavelica,Urbana,Empleo formal,31,1449.82,Ninguno,No,Informal
+374,46,Femenino,San Martín,Urbana,Comercio ambulante,35,798.18,Ninguno,No,Formal
+375,32,Femenino,San Martín,Urbana,Comercio ambulante,55,786.72,Ninguno,No,Informal
+376,35,Femenino,Lima,Urbana,Empleo formal,50,1086.55,Salud y pensión,Sí,Informal
+377,54,Femenino,Huancavelica,Rural,Microempresa,52,1114.48,Ninguno,No,Formal
+378,44,Femenino,Arequipa,Urbana,Comercio ambulante,27,1393.14,Salud y pensión,Sí,Formal
+379,29,Masculino,Lambayeque,Urbana,Empleo formal,53,1211.35,Ninguno,No,Informal
+380,59,Femenino,Arequipa,Rural,Servicio doméstico,43,316.84,Ninguno,Sí,Formal
+381,39,Femenino,Lima,Urbana,Comercio ambulante,10,1049.55,Solo salud,No,Informal
+382,35,Masculino,Huancavelica,Urbana,Empleo formal,17,1310.72,Salud y pensión,No,Informal
+383,47,Femenino,San Martín,Urbana,Microempresa,32,1133.46,Ninguno,No,Informal
+384,35,Femenino,Arequipa,Rural,Empleo formal,21,1310.61,Salud y pensión,No,Informal
+385,37,Masculino,Huancavelica,Rural,Empleo formal,48,805.55,Salud y pensión,No,Informal
+386,62,Femenino,San Martín,Rural,Microempresa,30,810.8,Salud y pensión,No,Informal
+387,38,Masculino,Huancavelica,Rural,Microempresa,40,328.58,Solo salud,No,Formal
+388,34,Masculino,San Martín,Rural,Comercio ambulante,20,1174.51,Ninguno,No,Formal
+389,45,Masculino,Huancavelica,Rural,Empleo formal,21,735.19,Solo salud,Sí,Informal
+390,19,Masculino,Lambayeque,Urbana,Freelance,10,1153.09,Ninguno,No,Formal
+391,30,Femenino,San Martín,Urbana,Servicio doméstico,48,1439.53,Ninguno,No,Informal
+392,60,Masculino,Huancavelica,Urbana,Servicio doméstico,11,1149.08,Ninguno,No,Formal
+393,61,Masculino,San Martín,Urbana,Comercio ambulante,45,195.74,Solo salud,No,Informal
+394,59,Masculino,Lima,Urbana,Servicio doméstico,59,1430.35,Ninguno,Sí,Informal
+395,21,Femenino,Lambayeque,Urbana,Microempresa,35,2258.620239781086,Ninguno,No,Formal
+396,42,Masculino,San Martín,Urbana,Microempresa,24,686.61,Salud y pensión,No,Informal
+397,35,Femenino,Huancavelica,Urbana,Empleo formal,50,1511.15,Solo salud,No,Formal
+398,57,Femenino,Huancavelica,Rural,Microempresa,42,1018.59,Ninguno,No,Formal
+399,27,Femenino,Arequipa,Urbana,Comercio ambulante,23,1172.58,Ninguno,No,Formal
+400,26,Femenino,Arequipa,Urbana,Servicio doméstico,41,1144.1,Solo salud,No,Informal
+401,61,Masculino,Huancavelica,Urbana,Servicio doméstico,26,575.68,Salud y pensión,Sí,Informal
+402,63,Femenino,Arequipa,Urbana,Servicio doméstico,21,1355.2,Ninguno,No,Informal
+403,20,Femenino,Cusco,Urbana,Empleo formal,16,1615.26,Solo salud,Sí,Informal
+404,47,Femenino,Lambayeque,Urbana,Servicio doméstico,19,1327.04,Solo salud,No,Informal
+405,50,Masculino,Huancavelica,Urbana,Microempresa,17,815.09,Salud y pensión,No,Informal
+406,43,Masculino,Lambayeque,Rural,Microempresa,36,1433.09,Ninguno,No,Formal
+407,47,Masculino,Lambayeque,Urbana,Microempresa,18,1274.92,Ninguno,Sí,Informal
+408,21,Femenino,Arequipa,Urbana,Empleo formal,16,472.31,Ninguno,Sí,Formal
+409,42,Masculino,Huancavelica,Urbana,Servicio doméstico,25,1647.99,Solo salud,Sí,Informal
+410,19,Masculino,Huancavelica,Urbana,Comercio ambulante,35,823.82,Solo salud,No,Informal
+411,40,Masculino,Lima,Rural,Microempresa,40,978.75,Solo salud,Sí,Informal
+412,41,Femenino,San Martín,Urbana,Freelance,50,1698.45,Ninguno,No,Formal
+413,19,Femenino,Cusco,Urbana,Comercio ambulante,23,1939.83,Ninguno,Sí,Formal
+414,57,Masculino,Cusco,Urbana,Comercio ambulante,15,1855.08,Ninguno,Sí,Formal
+415,29,Femenino,Lambayeque,Urbana,Freelance,17,1728.65,Solo salud,No,Informal
+416,50,Femenino,San Martín,Urbana,Freelance,17,1288.76,Salud y pensión,No,Formal
+417,52,Masculino,Lima,Urbana,Freelance,57,1165.97,Solo salud,Sí,Formal
+418,21,Femenino,Lambayeque,Urbana,Freelance,40,1109.19,Salud y pensión,Sí,Formal
+419,50,Masculino,Huancavelica,Urbana,Freelance,42,763.56,Solo salud,No,Informal
+420,35,Femenino,Arequipa,Rural,Empleo formal,35,1284.56,Solo salud,Sí,Informal
+421,63,Masculino,San Martín,Urbana,Comercio ambulante,43,1013.89,Ninguno,No,Informal
+422,25,Masculino,Cusco,Urbana,Freelance,27,896.58,Ninguno,Sí,Formal
+423,35,Femenino,Lambayeque,Urbana,Comercio ambulante,27,2101.4,Solo salud,No,Informal
+424,29,Masculino,San Martín,Urbana,Comercio ambulante,28,1065.85,Ninguno,Sí,Informal
+425,30,Masculino,San Martín,Urbana,Servicio doméstico,50,677.51,Solo salud,Sí,Informal
+426,28,Masculino,Arequipa,Urbana,Empleo formal,25,815.3,Solo salud,No,Informal
+427,28,Masculino,San Martín,Urbana,Servicio doméstico,35,688.42,Ninguno,No,Informal
+428,41,Masculino,Huancavelica,Urbana,Freelance,43,1442.06,Ninguno,No,Informal
+429,18,Femenino,Huancavelica,Rural,Microempresa,39,708.22,Ninguno,Sí,Informal
+430,62,Femenino,Cusco,Urbana,Comercio ambulante,55,1333.58,Ninguno,Sí,Informal
+431,34,Masculino,Cusco,Urbana,Servicio doméstico,21,1452.08,Ninguno,No,Informal
+432,48,Masculino,Lambayeque,Rural,Freelance,41,827.49,Ninguno,Sí,Formal
+433,57,Femenino,San Martín,Urbana,Microempresa,42,2416.91,Ninguno,No,Formal
+434,29,Femenino,Huancavelica,Rural,Servicio doméstico,11,1164.23,Ninguno,No,Informal
+435,54,Femenino,Lima,Urbana,Comercio ambulante,26,1865.01,Solo salud,Sí,Informal
+436,49,Masculino,Lambayeque,Urbana,Microempresa,59,1474.13,Ninguno,Sí,Formal
+437,50,Femenino,Cusco,Urbana,Empleo formal,45,1028.55,Ninguno,No,Informal
+438,28,Femenino,Huancavelica,Rural,Freelance,55,1064.78,Salud y pensión,Sí,Informal
+439,55,Masculino,Arequipa,Urbana,Comercio ambulante,15,1686.2,Salud y pensión,Sí,Formal
+440,22,Masculino,Arequipa,Urbana,Servicio doméstico,54,1643.96,Salud y pensión,No,Formal
+441,64,Femenino,Cusco,Urbana,Empleo formal,30,1384.6,Salud y pensión,No,Informal
+442,56,Femenino,Huancavelica,Urbana,Microempresa,27,1407.65,Solo salud,No,Informal
+443,28,Masculino,San Martín,Rural,Microempresa,49,508.95,Solo salud,No,Informal
+444,41,Masculino,Arequipa,Urbana,Empleo formal,42,571.69,Ninguno,Sí,Informal
+445,62,Femenino,San Martín,Rural,Microempresa,24,1471.0,Salud y pensión,No,Informal
+446,27,Femenino,Arequipa,Urbana,Comercio ambulante,20,677.82,Ninguno,No,Informal
+447,51,Masculino,Cusco,Urbana,Microempresa,49,1043.39,Ninguno,No,Informal
+448,18,Masculino,Huancavelica,Urbana,Microempresa,35,1530.07,Ninguno,Sí,Informal
+449,26,Masculino,Lima,Rural,Empleo formal,10,845.91,Ninguno,No,Informal
+450,47,Masculino,San Martín,Urbana,Freelance,12,1566.94,Solo salud,No,Informal
+451,26,Masculino,Huancavelica,Urbana,Servicio doméstico,50,1352.46,Salud y pensión,No,Informal
+452,57,Femenino,Cusco,Urbana,Comercio ambulante,55,1006.96,Ninguno,Sí,Formal
+453,54,Masculino,Lima,Urbana,Empleo formal,59,1280.83,Solo salud,No,Formal
+454,40,Masculino,Lima,Rural,Empleo formal,21,1487.95,Salud y pensión,No,Informal
+455,39,Masculino,Lambayeque,Urbana,Microempresa,31,1194.15,Solo salud,No,Informal
+456,64,Masculino,Huancavelica,Urbana,Servicio doméstico,41,1642.4,Ninguno,Sí,Informal
+457,57,Femenino,Lima,Urbana,Servicio doméstico,43,1694.86,Solo salud,No,Formal
+458,54,Femenino,Arequipa,Rural,Empleo formal,47,1089.7,Solo salud,No,Informal
+459,47,Masculino,Arequipa,Rural,Empleo formal,56,985.17,Salud y pensión,No,Formal
+460,47,Masculino,Arequipa,Urbana,Comercio ambulante,44,781.13,Ninguno,No,Informal
+461,47,Masculino,Lima,Urbana,Comercio ambulante,52,779.56,Salud y pensión,No,Informal
+462,34,Femenino,Lima,Urbana,Servicio doméstico,54,1265.02,Ninguno,No,Informal
+463,42,Masculino,Lambayeque,Urbana,Empleo formal,57,1654.03,Ninguno,No,Formal
+464,43,Masculino,Lambayeque,Urbana,Comercio ambulante,15,832.12,Salud y pensión,No,Formal
+465,30,Masculino,Huancavelica,Urbana,Comercio ambulante,32,863.44,Ninguno,No,Informal
+466,37,Femenino,Arequipa,Rural,Freelance,41,1050.65,Ninguno,No,Formal
+467,50,Femenino,Huancavelica,Rural,Servicio doméstico,21,1428.54,Solo salud,No,Formal
+468,47,Masculino,Huancavelica,Urbana,Comercio ambulante,56,931.45,Ninguno,No,Informal
+469,28,Femenino,Cusco,Urbana,Comercio ambulante,48,1908.32,Ninguno,No,Informal
+470,32,Femenino,Arequipa,Urbana,Empleo formal,37,1330.0,Solo salud,No,Informal
+471,22,Masculino,Cusco,Rural,Microempresa,23,434.08,Solo salud,No,Informal
+472,55,Masculino,Lima,Urbana,Freelance,47,1255.63,Solo salud,No,Informal
+473,54,Masculino,Huancavelica,Urbana,Freelance,18,1054.08,Ninguno,Sí,Informal
+474,40,Femenino,Arequipa,Urbana,Comercio ambulante,53,293.88,Ninguno,No,Informal
+475,24,Masculino,Lambayeque,Urbana,Empleo formal,20,1060.85,Ninguno,No,Formal
+476,26,Masculino,Lambayeque,Urbana,Servicio doméstico,51,1061.0,Salud y pensión,Sí,Informal
+477,58,Masculino,Huancavelica,Rural,Freelance,53,1436.37,Salud y pensión,No,Informal
+478,35,Femenino,Cusco,Urbana,Microempresa,52,1045.75,Solo salud,Sí,Informal
+479,59,Masculino,Arequipa,Urbana,Servicio doméstico,12,2195.98,Ninguno,No,Formal
+480,43,Femenino,Lima,Urbana,Microempresa,36,1383.56,Solo salud,Sí,Formal
+481,58,Masculino,Cusco,Rural,Empleo formal,31,1074.69,Ninguno,Sí,Informal
+482,59,Femenino,Lima,Urbana,Microempresa,42,1075.69,Ninguno,No,Formal
+483,55,Femenino,Arequipa,Urbana,Servicio doméstico,44,852.0,Ninguno,Sí,Informal
+484,43,Masculino,Lima,Urbana,Comercio ambulante,54,1084.58,Salud y pensión,No,Informal
+485,32,Femenino,Huancavelica,Urbana,Microempresa,30,421.92,Ninguno,No,Informal
+486,49,Masculino,Lambayeque,Urbana,Comercio ambulante,40,1489.51,Ninguno,No,Informal
+487,47,Femenino,Cusco,Urbana,Comercio ambulante,42,1071.84,Solo salud,No,Informal
+488,33,Masculino,Arequipa,Urbana,Comercio ambulante,44,1106.77,Ninguno,No,Informal
+489,59,Femenino,San Martín,Urbana,Empleo formal,21,1842.42,Salud y pensión,No,Formal
+490,39,Masculino,Lima,Urbana,Microempresa,49,1743.13,Ninguno,Sí,Informal
+491,29,Masculino,Huancavelica,Urbana,Servicio doméstico,50,1144.85,Ninguno,Sí,Formal
+492,53,Femenino,Huancavelica,Urbana,Servicio doméstico,31,1100.64,Ninguno,No,Informal
+493,32,Masculino,Huancavelica,Urbana,Empleo formal,30,755.7,Salud y pensión,Sí,Informal
+494,29,Femenino,Huancavelica,Rural,Servicio doméstico,24,1652.59,Salud y pensión,No,Informal
+495,32,Masculino,San Martín,Rural,Comercio ambulante,36,1051.64,Salud y pensión,Sí,Formal
+496,34,Masculino,Huancavelica,Urbana,Empleo formal,59,1396.24,Salud y pensión,Sí,Informal
+497,53,Masculino,San Martín,Urbana,Comercio ambulante,36,637.21,Ninguno,No,Informal
+498,46,Masculino,Cusco,Urbana,Microempresa,44,1012.08,Ninguno,No,Informal
+499,21,Masculino,Lima,Urbana,Servicio doméstico,42,1086.84,Solo salud,Sí,Informal
+500,51,Femenino,Lima,Urbana,Empleo formal,47,1618.11,Ninguno,No,Informal
+501,49,Femenino,Cusco,Urbana,Microempresa,54,653.31,Ninguno,No,Informal
+502,34,Masculino,Arequipa,Urbana,Microempresa,37,615.1,Solo salud,No,Informal
+503,34,Masculino,Huancavelica,Urbana,Microempresa,11,774.23,Solo salud,No,Formal
+504,38,Femenino,San Martín,Urbana,Empleo formal,57,382.52,Ninguno,Sí,Informal
+505,29,Femenino,Huancavelica,Urbana,Empleo formal,26,875.34,Solo salud,Sí,Informal
+506,52,Masculino,Arequipa,Urbana,Microempresa,10,835.43,Ninguno,No,Informal
+507,62,Femenino,Huancavelica,Urbana,Servicio doméstico,19,1056.34,Ninguno,No,Informal
+508,21,Femenino,Lima,Urbana,Comercio ambulante,28,1600.77,Salud y pensión,No,Informal
+509,36,Femenino,Cusco,Urbana,Empleo formal,44,716.77,Solo salud,Sí,Informal
+510,64,Masculino,Arequipa,Urbana,Microempresa,57,1714.01,Ninguno,Sí,Formal
+511,52,Femenino,Arequipa,Rural,Servicio doméstico,42,627.34,Solo salud,Sí,Formal
+512,30,Masculino,Arequipa,Rural,Servicio doméstico,25,987.6,Solo salud,Sí,Formal
+513,42,Masculino,Arequipa,Urbana,Comercio ambulante,44,1486.21,Salud y pensión,No,Informal
+514,47,Masculino,Arequipa,Urbana,Comercio ambulante,38,1275.25,Solo salud,Sí,Informal
+515,55,Masculino,Arequipa,Urbana,Comercio ambulante,36,640.1,Salud y pensión,No,Formal
+516,31,Masculino,Arequipa,Urbana,Servicio doméstico,20,1540.8,Ninguno,No,Formal
+517,45,Masculino,San Martín,Urbana,Freelance,55,1105.56,Salud y pensión,No,Informal
+518,34,Femenino,Lima,Rural,Comercio ambulante,50,484.28,Ninguno,No,Informal
+519,33,Masculino,Arequipa,Urbana,Microempresa,22,1026.93,Ninguno,No,Formal
+520,51,Masculino,Huancavelica,Urbana,Microempresa,28,1717.86,Solo salud,No,Informal
+521,27,Masculino,Arequipa,Urbana,Servicio doméstico,54,1063.09,Salud y pensión,No,Informal
+522,33,Femenino,Lima,Rural,Freelance,59,830.68,Ninguno,No,Informal
+523,19,Masculino,Lambayeque,Rural,Microempresa,27,1623.15,Solo salud,No,Formal
+524,18,Masculino,Huancavelica,Urbana,Freelance,12,1504.12,Ninguno,No,Informal
+525,28,Masculino,Cusco,Urbana,Microempresa,23,1738.65,Solo salud,Sí,Formal
+526,31,Femenino,Lima,Urbana,Microempresa,50,1237.89,Ninguno,Sí,Formal
+527,23,Femenino,San Martín,Urbana,Comercio ambulante,25,612.57,Ninguno,Sí,Informal
+528,22,Femenino,Arequipa,Urbana,Freelance,49,1172.49,Ninguno,Sí,Informal
+529,19,Femenino,Lima,Urbana,Freelance,22,880.36,Ninguno,No,Formal
+530,58,Masculino,Lima,Urbana,Empleo formal,59,862.99,Ninguno,No,Informal
+531,60,Femenino,San Martín,Urbana,Comercio ambulante,35,479.28,Solo salud,Sí,Informal
+532,44,Femenino,Lambayeque,Urbana,Freelance,44,1752.67,Solo salud,No,Informal
+533,35,Femenino,Cusco,Urbana,Empleo formal,32,1032.62,Salud y pensión,Sí,Informal
+534,50,Masculino,Cusco,Rural,Empleo formal,29,849.74,Ninguno,No,Formal
+535,62,Masculino,Lambayeque,Urbana,Freelance,43,1206.78,Ninguno,No,Informal
+536,27,Masculino,Arequipa,Urbana,Empleo formal,22,809.85,Solo salud,Sí,Informal
+537,42,Masculino,Arequipa,Urbana,Freelance,24,1037.93,Ninguno,No,Informal
+538,58,Femenino,Huancavelica,Urbana,Servicio doméstico,37,611.0,Ninguno,No,Informal
+539,19,Masculino,Cusco,Urbana,Servicio doméstico,35,537.06,Ninguno,Sí,Formal
+540,26,Masculino,San Martín,Urbana,Empleo formal,25,757.4,Ninguno,No,Informal
+541,21,Masculino,Arequipa,Urbana,Empleo formal,18,1244.52,Solo salud,No,Formal
+542,31,Masculino,Arequipa,Urbana,Empleo formal,47,918.27,Solo salud,No,Informal
+543,39,Femenino,Lima,Urbana,Comercio ambulante,22,787.84,Ninguno,Sí,Formal
+544,29,Femenino,Arequipa,Urbana,Servicio doméstico,17,1768.6,Salud y pensión,No,Informal
+545,39,Masculino,Huancavelica,Urbana,Freelance,15,1848.83,Solo salud,No,Informal
+546,19,Masculino,San Martín,Rural,Freelance,58,607.99,Ninguno,No,Informal
+547,54,Femenino,Lambayeque,Urbana,Empleo formal,12,958.41,Ninguno,No,Informal
+548,52,Femenino,Lima,Urbana,Comercio ambulante,54,729.34,Salud y pensión,No,Formal
+549,29,Masculino,Huancavelica,Urbana,Microempresa,52,897.11,Ninguno,No,Informal
+550,42,Femenino,Arequipa,Rural,Freelance,44,368.15,Ninguno,No,Informal
+551,36,Masculino,Arequipa,Urbana,Empleo formal,43,1227.6,Salud y pensión,No,Formal
+552,59,Masculino,Lima,Urbana,Microempresa,18,1757.48,Ninguno,Sí,Informal
+553,48,Femenino,San Martín,Urbana,Freelance,14,875.57,Ninguno,No,Formal
+554,45,Masculino,Lambayeque,Urbana,Microempresa,25,811.95,Ninguno,Sí,Informal
+555,46,Masculino,Huancavelica,Urbana,Comercio ambulante,18,1691.09,Ninguno,No,Formal
+556,37,Masculino,Arequipa,Urbana,Servicio doméstico,48,1331.96,Salud y pensión,Sí,Informal
+557,60,Masculino,Arequipa,Rural,Comercio ambulante,16,1820.51,Ninguno,No,Informal
+558,59,Masculino,Cusco,Urbana,Empleo formal,43,656.12,Solo salud,No,Informal
+559,39,Masculino,San Martín,Urbana,Freelance,57,952.89,Solo salud,No,Formal
+560,27,Femenino,Cusco,Rural,Empleo formal,23,499.56,Solo salud,Sí,Informal
+561,36,Masculino,Lima,Rural,Microempresa,37,1570.06,Ninguno,No,Informal
+562,63,Femenino,Lambayeque,Rural,Freelance,59,1617.36,Solo salud,Sí,Informal
+563,64,Femenino,San Martín,Urbana,Microempresa,38,781.5,Solo salud,No,Informal
+564,31,Femenino,Arequipa,Urbana,Microempresa,47,1204.96,Ninguno,Sí,Formal
+565,60,Masculino,Lima,Urbana,Microempresa,26,1180.83,Ninguno,No,Informal
+566,34,Femenino,Lambayeque,Urbana,Servicio doméstico,39,1030.7,Ninguno,Sí,Informal
+567,32,Femenino,Cusco,Urbana,Empleo formal,25,1708.12,Solo salud,No,Informal
+568,44,Femenino,Lambayeque,Urbana,Freelance,50,321.62,Ninguno,No,Informal
+569,60,Masculino,Lambayeque,Rural,Empleo formal,46,1376.55,Ninguno,No,Formal
+570,61,Masculino,Lambayeque,Urbana,Comercio ambulante,21,867.12,Salud y pensión,No,Formal
+571,48,Femenino,Huancavelica,Urbana,Comercio ambulante,18,1207.73,Salud y pensión,No,Informal
+572,28,Masculino,Lima,Urbana,Servicio doméstico,29,1003.41,Salud y pensión,Sí,Formal
+573,56,Femenino,Arequipa,Urbana,Microempresa,39,2439.09,Ninguno,Sí,Informal
+574,61,Femenino,Cusco,Urbana,Comercio ambulante,41,630.13,Ninguno,No,Formal
+575,63,Femenino,Lambayeque,Urbana,Microempresa,33,1359.96,Solo salud,No,Informal
+576,55,Masculino,Lima,Urbana,Microempresa,39,1640.27,Ninguno,No,Informal
+577,20,Masculino,San Martín,Urbana,Comercio ambulante,51,1676.94,Ninguno,No,Informal
+578,49,Masculino,San Martín,Urbana,Comercio ambulante,15,1358.35,Solo salud,No,Informal
+579,47,Masculino,Lima,Rural,Comercio ambulante,48,835.01,Salud y pensión,No,Informal
+580,25,Femenino,Arequipa,Urbana,Microempresa,50,1061.4,Salud y pensión,Sí,Formal
+581,57,Femenino,Cusco,Urbana,Empleo formal,13,890.04,Solo salud,Sí,Formal
+582,26,Femenino,Lambayeque,Urbana,Microempresa,35,1131.58,Solo salud,Sí,Formal
+583,46,Masculino,San Martín,Urbana,Empleo formal,58,1105.46,Ninguno,No,Formal
+584,48,Femenino,Lambayeque,Urbana,Freelance,45,569.28,Ninguno,No,Formal
+585,30,Masculino,Cusco,Urbana,Comercio ambulante,51,1043.86,Salud y pensión,No,Informal
+586,45,Femenino,Lambayeque,Rural,Microempresa,32,1195.56,Solo salud,No,Informal
+587,44,Masculino,San Martín,Urbana,Empleo formal,46,1056.45,Salud y pensión,Sí,Formal
+588,36,Masculino,Huancavelica,Urbana,Comercio ambulante,24,1470.69,Ninguno,Sí,Informal
+589,47,Masculino,Lambayeque,Urbana,Freelance,18,2305.02,Solo salud,No,Informal
+590,54,Femenino,Lambayeque,Urbana,Freelance,40,849.21,Solo salud,Sí,Formal
+591,45,Masculino,Lima,Rural,Comercio ambulante,10,1629.86,Salud y pensión,Sí,Formal
+592,39,Femenino,San Martín,Urbana,Servicio doméstico,36,1580.68,Salud y pensión,No,Informal
+593,19,Femenino,Lambayeque,Rural,Microempresa,52,1070.23,Ninguno,No,Informal
+594,55,Masculino,Lima,Urbana,Empleo formal,15,1475.4,Ninguno,No,Informal
+595,48,Masculino,Arequipa,Urbana,Empleo formal,42,961.96,Ninguno,No,Informal
+596,64,Femenino,San Martín,Rural,Freelance,23,253.59,Solo salud,No,Informal
+597,45,Masculino,Huancavelica,Urbana,Empleo formal,48,841.03,Solo salud,No,Informal
+598,62,Femenino,San Martín,Urbana,Empleo formal,14,1161.95,Ninguno,Sí,Formal
+599,36,Femenino,Huancavelica,Urbana,Freelance,28,1505.79,Salud y pensión,Sí,Informal
+600,22,Femenino,Huancavelica,Urbana,Microempresa,31,1363.92,Salud y pensión,No,Formal
+601,47,Masculino,Lambayeque,Urbana,Freelance,39,1254.97,Ninguno,No,Formal
+602,60,Masculino,Cusco,Urbana,Microempresa,42,670.7,Ninguno,No,Informal
+603,21,Femenino,Lima,Urbana,Freelance,40,1683.26,Salud y pensión,No,Informal
+604,22,Femenino,Cusco,Urbana,Empleo formal,44,1086.01,Solo salud,Sí,Informal
+605,24,Femenino,Huancavelica,Urbana,Servicio doméstico,31,739.65,Ninguno,No,Informal
+606,33,Femenino,San Martín,Urbana,Comercio ambulante,26,1203.45,Ninguno,Sí,Formal
+607,59,Femenino,Arequipa,Rural,Servicio doméstico,22,398.23,Ninguno,No,Informal
+608,47,Masculino,San Martín,Urbana,Microempresa,56,725.38,Ninguno,No,Informal
+609,20,Masculino,Lambayeque,Urbana,Microempresa,20,1051.11,Solo salud,Sí,Informal
+610,59,Femenino,Cusco,Rural,Microempresa,53,1230.9,Ninguno,No,Informal
+611,34,Masculino,Cusco,Urbana,Microempresa,28,1140.96,Ninguno,Sí,Informal
+612,60,Femenino,Arequipa,Urbana,Freelance,19,1411.03,Ninguno,No,Informal
+613,28,Masculino,Cusco,Urbana,Servicio doméstico,37,1219.6,Ninguno,No,Informal
+614,19,Masculino,Lima,Urbana,Empleo formal,29,1565.19,Ninguno,No,Informal
+615,33,Femenino,Huancavelica,Urbana,Microempresa,43,1081.26,Solo salud,No,Formal
+616,54,Femenino,Lima,Urbana,Comercio ambulante,40,1322.94,Ninguno,Sí,Informal
+617,28,Femenino,Lambayeque,Urbana,Empleo formal,51,163.39,Solo salud,No,Formal
+618,18,Femenino,Cusco,Urbana,Comercio ambulante,32,1301.87,Ninguno,Sí,Formal
+619,50,Masculino,Huancavelica,Urbana,Empleo formal,30,658.29,Ninguno,Sí,Formal
+620,64,Femenino,San Martín,Urbana,Empleo formal,48,373.26,Salud y pensión,Sí,Informal
+621,21,Femenino,Lima,Urbana,Empleo formal,35,1212.39,Salud y pensión,Sí,Informal
+622,57,Femenino,Lambayeque,Urbana,Comercio ambulante,55,992.41,Solo salud,No,Formal
+623,52,Masculino,Lambayeque,Rural,Empleo formal,38,918.05,Salud y pensión,Sí,Informal
+624,38,Masculino,Huancavelica,Urbana,Comercio ambulante,19,277.93,Ninguno,No,Informal
+625,19,Femenino,Lambayeque,Urbana,Comercio ambulante,15,874.56,Solo salud,No,Informal
+626,33,Femenino,Huancavelica,Rural,Servicio doméstico,13,1721.49,Solo salud,Sí,Informal
+627,58,Femenino,Lima,Urbana,Comercio ambulante,59,1052.71,Ninguno,No,Formal
+628,58,Masculino,San Martín,Urbana,Comercio ambulante,22,983.62,Salud y pensión,No,Informal
+629,38,Masculino,San Martín,Rural,Microempresa,21,1435.62,Ninguno,No,Informal
+630,43,Femenino,Lambayeque,Urbana,Freelance,11,976.23,Solo salud,Sí,Formal
+631,32,Femenino,Lambayeque,Urbana,Empleo formal,43,884.54,Ninguno,Sí,Informal
+632,29,Masculino,Cusco,Rural,Servicio doméstico,12,947.38,Salud y pensión,No,Formal
+633,26,Femenino,Arequipa,Urbana,Empleo formal,47,1368.79,Salud y pensión,No,Formal
+634,22,Femenino,Arequipa,Rural,Empleo formal,58,1088.09,Salud y pensión,No,Informal
+635,50,Masculino,Lima,Rural,Microempresa,30,776.64,Ninguno,No,Formal
+636,31,Masculino,Arequipa,Urbana,Microempresa,28,1216.05,Ninguno,No,Informal
+637,39,Femenino,San Martín,Rural,Empleo formal,11,1033.64,Solo salud,No,Informal
+638,49,Masculino,Huancavelica,Urbana,Microempresa,21,1070.9,Ninguno,No,Informal
+639,21,Masculino,Lima,Rural,Empleo formal,30,825.33,Ninguno,Sí,Informal
+640,41,Femenino,San Martín,Urbana,Microempresa,12,875.98,Ninguno,Sí,Informal
+641,56,Femenino,Huancavelica,Urbana,Comercio ambulante,49,952.68,Ninguno,No,Informal
+642,51,Femenino,San Martín,Urbana,Microempresa,55,679.08,Salud y pensión,No,Formal
+643,62,Masculino,San Martín,Rural,Microempresa,57,1089.92,Solo salud,No,Informal
+644,40,Femenino,Cusco,Urbana,Empleo formal,27,795.14,Solo salud,No,Formal
+645,18,Femenino,Lambayeque,Rural,Empleo formal,29,671.07,Ninguno,Sí,Formal
+646,54,Masculino,Cusco,Urbana,Microempresa,59,1059.95,Solo salud,Sí,Informal
+647,59,Femenino,Cusco,Urbana,Servicio doméstico,35,449.46,Salud y pensión,Sí,Formal
+648,48,Femenino,Cusco,Urbana,Microempresa,20,1865.35,Solo salud,No,Formal
+649,37,Femenino,Huancavelica,Rural,Empleo formal,45,1306.54,Salud y pensión,Sí,Formal
+650,24,Femenino,Lima,Urbana,Empleo formal,34,557.17,Ninguno,Sí,Informal
+651,35,Masculino,Cusco,Rural,Microempresa,29,273.06,Ninguno,Sí,Informal
+652,42,Femenino,Lima,Urbana,Comercio ambulante,51,907.32,Solo salud,No,Informal
+653,26,Masculino,Lambayeque,Rural,Servicio doméstico,18,1896.19,Salud y pensión,Sí,Informal
+654,62,Masculino,Arequipa,Urbana,Empleo formal,23,509.8,Solo salud,Sí,Informal
+655,43,Femenino,Lima,Urbana,Microempresa,30,629.54,Salud y pensión,No,Informal
+656,29,Femenino,Arequipa,Rural,Empleo formal,50,314.58,Ninguno,No,Informal
+657,31,Femenino,Huancavelica,Urbana,Comercio ambulante,57,1237.09,Solo salud,Sí,Formal
+658,56,Femenino,Huancavelica,Urbana,Servicio doméstico,50,939.089412112566,Ninguno,No,Informal
+659,34,Femenino,Lambayeque,Rural,Microempresa,31,973.39,Ninguno,No,Formal
+660,29,Masculino,Lambayeque,Rural,Comercio ambulante,37,1119.33,Ninguno,No,Formal
+661,59,Masculino,Arequipa,Rural,Microempresa,40,1125.9,Ninguno,Sí,Informal
+662,27,Femenino,Cusco,Urbana,Microempresa,32,2057.92,Ninguno,Sí,Informal
+663,25,Femenino,Arequipa,Rural,Servicio doméstico,12,374.01,Solo salud,No,Informal
+664,57,Femenino,Cusco,Urbana,Comercio ambulante,53,354.67,Solo salud,No,Informal
+665,27,Masculino,Cusco,Urbana,Microempresa,15,1378.7,Ninguno,No,Informal
+666,26,Masculino,Cusco,Urbana,Microempresa,18,744.78,Solo salud,Sí,Informal
+667,37,Masculino,Huancavelica,Rural,Comercio ambulante,18,424.17,Ninguno,No,Formal
+668,19,Masculino,San Martín,Urbana,Comercio ambulante,25,1533.89,Ninguno,No,Informal
+669,46,Femenino,Lambayeque,Rural,Empleo formal,51,1138.12,Ninguno,No,Informal
+670,34,Femenino,Lambayeque,Rural,Comercio ambulante,21,672.35,Ninguno,No,Informal
+671,23,Masculino,Lima,Rural,Microempresa,48,875.36,Ninguno,No,Informal
+672,55,Masculino,San Martín,Urbana,Empleo formal,12,1673.22,Ninguno,No,Informal
+673,19,Masculino,Lambayeque,Urbana,Servicio doméstico,44,467.64,Salud y pensión,No,Informal
+674,29,Masculino,Cusco,Urbana,Comercio ambulante,44,1721.19,Ninguno,Sí,Formal
+675,39,Masculino,Lambayeque,Urbana,Empleo formal,30,1090.02,Solo salud,No,Informal
+676,53,Femenino,Lima,Urbana,Empleo formal,21,1120.55,Salud y pensión,Sí,Informal
+677,49,Femenino,Lambayeque,Urbana,Microempresa,45,1390.25,Ninguno,Sí,Formal
+678,47,Masculino,Cusco,Urbana,Servicio doméstico,34,1122.84,Ninguno,No,Informal
+679,52,Femenino,San Martín,Urbana,Freelance,36,1033.85,Ninguno,No,Informal
+680,54,Masculino,San Martín,Rural,Microempresa,45,1024.16,Ninguno,No,Informal
+681,23,Femenino,Huancavelica,Rural,Freelance,28,646.0,Solo salud,No,Informal
+682,30,Femenino,Arequipa,Urbana,Comercio ambulante,38,1652.58,Solo salud,Sí,Informal
+683,36,Femenino,Lima,Urbana,Empleo formal,55,803.95,Solo salud,No,Informal
+684,39,Femenino,Lima,Urbana,Comercio ambulante,37,1026.43,Salud y pensión,No,Formal
+685,31,Femenino,Lambayeque,Urbana,Comercio ambulante,20,825.94,Ninguno,No,Informal
+686,39,Masculino,Lima,Urbana,Empleo formal,30,995.19,Ninguno,No,Formal
+687,52,Masculino,Cusco,Urbana,Freelance,35,1211.35,Salud y pensión,No,Formal
+688,30,Masculino,Huancavelica,Urbana,Microempresa,45,1201.45,Ninguno,No,Formal
+689,21,Masculino,Lambayeque,Urbana,Empleo formal,30,109.43,Ninguno,No,Informal
+690,21,Masculino,Huancavelica,Urbana,Microempresa,14,919.78,Salud y pensión,No,Informal
+691,58,Masculino,Arequipa,Urbana,Comercio ambulante,49,1063.94,Ninguno,No,Informal
+692,39,Femenino,Lambayeque,Urbana,Microempresa,21,960.88,Ninguno,Sí,Informal
+693,22,Femenino,Cusco,Urbana,Microempresa,41,1023.25,Solo salud,Sí,Informal
+694,57,Masculino,San Martín,Rural,Microempresa,44,1201.78,Ninguno,Sí,Informal
+695,63,Masculino,Lambayeque,Rural,Empleo formal,11,820.15,Salud y pensión,Sí,Formal
+696,38,Masculino,Lambayeque,Urbana,Microempresa,37,1857.3393257281484,Ninguno,Sí,Informal
+697,61,Masculino,Lima,Urbana,Empleo formal,37,679.88,Ninguno,No,Informal
+698,47,Femenino,Huancavelica,Urbana,Microempresa,36,419.64,Ninguno,Sí,Formal
+699,42,Masculino,Huancavelica,Urbana,Comercio ambulante,10,1723.26,Ninguno,Sí,Informal
+700,42,Femenino,Arequipa,Urbana,Microempresa,46,1433.77,Ninguno,No,Informal
+701,62,Femenino,Cusco,Urbana,Empleo formal,41,2066.26,Salud y pensión,No,Formal
+702,38,Masculino,Cusco,Rural,Microempresa,32,1011.52,Ninguno,Sí,Informal
+703,58,Masculino,Arequipa,Rural,Comercio ambulante,48,1756.21,Ninguno,Sí,Informal
+704,43,Femenino,Arequipa,Rural,Comercio ambulante,51,1056.41,Salud y pensión,No,Informal
+705,36,Femenino,Huancavelica,Urbana,Servicio doméstico,17,418.7,Ninguno,Sí,Informal
+706,40,Masculino,Lima,Urbana,Freelance,14,761.47,Salud y pensión,No,Informal
+707,39,Femenino,Lima,Urbana,Microempresa,29,421.2,Solo salud,No,Informal
+708,37,Masculino,Arequipa,Urbana,Empleo formal,38,1286.35,Salud y pensión,No,Informal
+709,33,Masculino,Arequipa,Urbana,Freelance,52,1455.92,Ninguno,No,Formal
+710,55,Femenino,Huancavelica,Urbana,Empleo formal,13,1062.72,Ninguno,Sí,Formal
+711,62,Femenino,Lambayeque,Urbana,Empleo formal,35,1398.75,Ninguno,No,Informal
+712,36,Masculino,Lima,Urbana,Comercio ambulante,39,784.41,Ninguno,Sí,Informal
+713,33,Masculino,Lambayeque,Urbana,Empleo formal,33,969.84,Salud y pensión,Sí,Formal
+714,21,Femenino,San Martín,Urbana,Comercio ambulante,38,1561.83,Salud y pensión,No,Informal
+715,43,Masculino,San Martín,Rural,Servicio doméstico,37,1256.17,Ninguno,Sí,Formal
+716,48,Masculino,Huancavelica,Urbana,Microempresa,57,709.07,Salud y pensión,No,Informal
+717,60,Masculino,Cusco,Urbana,Servicio doméstico,28,1567.63,Ninguno,Sí,Formal
+718,36,Femenino,San Martín,Urbana,Freelance,57,410.83,Solo salud,Sí,Formal
+719,56,Masculino,Arequipa,Urbana,Comercio ambulante,22,317.92,Ninguno,No,Informal
+720,22,Masculino,Lambayeque,Urbana,Microempresa,41,1545.57,Ninguno,No,Informal
+721,53,Masculino,Arequipa,Urbana,Microempresa,27,1279.09,Ninguno,Sí,Formal
+722,59,Femenino,Lima,Rural,Empleo formal,36,1282.11,Ninguno,Sí,Informal
+723,37,Masculino,Arequipa,Urbana,Comercio ambulante,47,655.77,Salud y pensión,Sí,Informal
+724,19,Masculino,San Martín,Rural,Comercio ambulante,48,1371.87,Salud y pensión,Sí,Formal
+725,53,Masculino,Arequipa,Urbana,Servicio doméstico,31,595.47,Ninguno,No,Informal
+726,61,Masculino,Lima,Urbana,Comercio ambulante,28,1275.24,Solo salud,No,Formal
+727,39,Masculino,San Martín,Urbana,Comercio ambulante,54,666.6,Ninguno,No,Informal
+728,24,Masculino,San Martín,Urbana,Microempresa,49,325.72,Solo salud,No,Informal
+729,39,Femenino,Cusco,Rural,Empleo formal,51,1277.35,Solo salud,Sí,Formal
+730,46,Masculino,Huancavelica,Urbana,Empleo formal,55,593.66,Ninguno,No,Formal
+731,63,Masculino,Cusco,Urbana,Empleo formal,21,678.42,Ninguno,Sí,Informal
+732,60,Femenino,Cusco,Urbana,Empleo formal,36,1424.55,Ninguno,No,Informal
+733,53,Masculino,Huancavelica,Urbana,Microempresa,55,670.48,Ninguno,No,Informal
+734,29,Masculino,Huancavelica,Urbana,Microempresa,50,1061.04,Ninguno,Sí,Informal
+735,40,Masculino,San Martín,Urbana,Microempresa,10,1834.37,Ninguno,No,Informal
+736,39,Femenino,Huancavelica,Urbana,Comercio ambulante,17,1861.6,Salud y pensión,No,Informal
+737,49,Masculino,Lambayeque,Urbana,Servicio doméstico,21,1014.12,Solo salud,No,Informal
+738,37,Femenino,Huancavelica,Rural,Comercio ambulante,58,1549.56,Ninguno,Sí,Informal
+739,28,Femenino,Huancavelica,Urbana,Servicio doméstico,40,1155.79,Ninguno,No,Informal
+740,30,Masculino,Lambayeque,Urbana,Microempresa,33,834.36,Solo salud,Sí,Informal
+741,38,Femenino,Huancavelica,Urbana,Comercio ambulante,13,664.2,Salud y pensión,No,Informal
+742,57,Masculino,Cusco,Urbana,Microempresa,31,1910.95,Solo salud,No,Formal
+743,43,Femenino,Lima,Urbana,Microempresa,20,870.93,Solo salud,Sí,Informal
+744,34,Femenino,Cusco,Rural,Microempresa,51,1331.63,Ninguno,No,Formal
+745,23,Masculino,San Martín,Urbana,Servicio doméstico,47,1285.1,Salud y pensión,No,Informal
+746,19,Femenino,San Martín,Urbana,Microempresa,35,1905.46,Solo salud,No,Formal
+747,32,Femenino,Lambayeque,Urbana,Comercio ambulante,51,1047.22,Salud y pensión,No,Formal
+748,31,Masculino,Huancavelica,Urbana,Microempresa,38,1428.05,Solo salud,No,Formal
+749,59,Femenino,Lima,Urbana,Comercio ambulante,26,1185.93,Ninguno,No,Informal
+750,30,Femenino,Lima,Urbana,Comercio ambulante,39,1094.57,Solo salud,Sí,Informal
+751,54,Masculino,Lambayeque,Urbana,Servicio doméstico,49,760.44,Salud y pensión,No,Informal
+752,64,Masculino,Lima,Urbana,Servicio doméstico,45,531.63,Ninguno,No,Formal
+753,48,Femenino,Huancavelica,Urbana,Empleo formal,45,587.55,Solo salud,Sí,Informal
+754,64,Masculino,Lambayeque,Urbana,Microempresa,45,1209.31,Ninguno,No,Informal
+755,62,Masculino,Huancavelica,Urbana,Servicio doméstico,21,1541.1,Ninguno,No,Informal
+756,60,Masculino,San Martín,Urbana,Empleo formal,17,1494.63,Ninguno,Sí,Informal
+757,64,Masculino,Arequipa,Urbana,Empleo formal,33,1366.41,Salud y pensión,No,Informal
+758,53,Femenino,Arequipa,Rural,Comercio ambulante,27,755.95,Solo salud,No,Informal
+759,18,Femenino,Arequipa,Rural,Comercio ambulante,53,1683.79,Ninguno,No,Informal
+760,22,Masculino,Lima,Urbana,Servicio doméstico,57,1232.72,Ninguno,No,Formal
+761,52,Masculino,San Martín,Urbana,Comercio ambulante,37,1198.94,Ninguno,No,Formal
+762,46,Masculino,Lima,Urbana,Servicio doméstico,40,769.69,Ninguno,No,Informal
+763,27,Masculino,San Martín,Rural,Comercio ambulante,29,745.4,Solo salud,Sí,Informal
+764,34,Masculino,Cusco,Urbana,Empleo formal,21,1169.91,Ninguno,No,Informal
+765,24,Femenino,Huancavelica,Urbana,Comercio ambulante,25,1017.15,Salud y pensión,Sí,Formal
+766,63,Masculino,San Martín,Rural,Empleo formal,53,1442.91,Ninguno,No,Informal
+767,22,Masculino,Cusco,Urbana,Comercio ambulante,21,519.45,Ninguno,Sí,Informal
+768,20,Masculino,Lima,Rural,Freelance,43,768.5,Ninguno,No,Formal
+769,39,Femenino,San Martín,Urbana,Microempresa,22,632.61,Solo salud,No,Informal
+770,28,Masculino,Cusco,Urbana,Comercio ambulante,53,1965.24,Ninguno,Sí,Informal
+771,19,Femenino,San Martín,Urbana,Empleo formal,42,451.15,Ninguno,Sí,Formal
+772,29,Femenino,Lambayeque,Urbana,Comercio ambulante,23,1912.15,Ninguno,Sí,Informal
+773,19,Masculino,San Martín,Urbana,Empleo formal,33,922.85,Ninguno,No,Formal
+774,52,Femenino,Huancavelica,Urbana,Empleo formal,10,1170.43,Salud y pensión,Sí,Informal
+775,19,Femenino,San Martín,Rural,Microempresa,46,1111.34,Ninguno,No,Formal
+776,29,Femenino,Arequipa,Rural,Microempresa,20,1327.62,Salud y pensión,Sí,Formal
+777,60,Masculino,Cusco,Rural,Microempresa,43,816.99,Solo salud,No,Informal
+778,52,Femenino,Cusco,Rural,Servicio doméstico,49,833.18,Ninguno,No,Informal
+779,33,Femenino,Lima,Urbana,Comercio ambulante,36,1198.7,Solo salud,No,Informal
+780,40,Femenino,Cusco,Urbana,Comercio ambulante,36,348.82,Ninguno,Sí,Informal
+781,36,Masculino,San Martín,Urbana,Comercio ambulante,51,1501.76,Ninguno,No,Informal
+782,35,Femenino,Lambayeque,Urbana,Empleo formal,46,1449.6,Ninguno,No,Informal
+783,54,Femenino,Huancavelica,Urbana,Servicio doméstico,34,546.85,Ninguno,No,Informal
+784,57,Masculino,Huancavelica,Urbana,Comercio ambulante,58,1439.12,Solo salud,Sí,Informal
+785,42,Femenino,Lima,Urbana,Comercio ambulante,16,1625.26,Ninguno,No,Informal
+786,62,Femenino,Arequipa,Urbana,Freelance,28,1561.6,Solo salud,No,Formal
+787,26,Femenino,Arequipa,Urbana,Freelance,10,871.69,Salud y pensión,Sí,Informal
+788,41,Femenino,San Martín,Rural,Microempresa,29,1481.27,Ninguno,No,Formal
+789,23,Masculino,Lambayeque,Urbana,Comercio ambulante,25,1351.45,Solo salud,No,Informal
+790,27,Femenino,Lima,Rural,Empleo formal,41,1095.33,Salud y pensión,No,Formal
+791,23,Femenino,Huancavelica,Urbana,Servicio doméstico,31,1435.6,Ninguno,Sí,Informal
+792,50,Femenino,San Martín,Urbana,Microempresa,23,1791.12,Ninguno,No,Informal
+793,46,Femenino,Huancavelica,Urbana,Servicio doméstico,32,1250.68,Salud y pensión,No,Informal
+794,54,Femenino,Arequipa,Urbana,Servicio doméstico,56,1371.61,Solo salud,Sí,Formal
+795,44,Masculino,Lambayeque,Urbana,Microempresa,46,901.62,Solo salud,No,Formal
+796,47,Femenino,Lambayeque,Urbana,Servicio doméstico,49,1484.86,Salud y pensión,No,Informal
+797,40,Masculino,Arequipa,Urbana,Comercio ambulante,53,863.84,Ninguno,Sí,Formal
+798,56,Masculino,San Martín,Urbana,Microempresa,28,1094.94,Solo salud,No,Informal
+799,33,Masculino,San Martín,Urbana,Empleo formal,17,561.83,Salud y pensión,No,Informal
+800,28,Masculino,Lima,Rural,Empleo formal,14,701.08,Ninguno,No,Informal
+801,61,Masculino,Lambayeque,Rural,Comercio ambulante,45,1240.07,Ninguno,No,Informal
+802,23,Masculino,San Martín,Rural,Empleo formal,28,221.07,Ninguno,Sí,Informal
+803,63,Masculino,Huancavelica,Rural,Microempresa,42,1042.65,Ninguno,Sí,Informal
+804,62,Femenino,San Martín,Urbana,Empleo formal,33,516.09,Salud y pensión,Sí,Informal
+805,26,Masculino,Arequipa,Rural,Servicio doméstico,47,725.26,Salud y pensión,No,Informal
+806,25,Masculino,San Martín,Urbana,Comercio ambulante,13,1311.34,Ninguno,Sí,Formal
+807,47,Femenino,Lima,Rural,Comercio ambulante,59,924.69,Salud y pensión,No,Informal
+808,37,Masculino,Huancavelica,Rural,Empleo formal,42,1481.66,Solo salud,No,Formal
+809,63,Masculino,Lambayeque,Urbana,Empleo formal,11,1208.67,Ninguno,Sí,Informal
+810,19,Femenino,Lima,Urbana,Comercio ambulante,23,2050.14,Salud y pensión,No,Informal
+811,48,Femenino,Huancavelica,Urbana,Empleo formal,36,1309.02,Ninguno,Sí,Informal
+812,47,Masculino,Lambayeque,Urbana,Microempresa,58,1274.09,Solo salud,No,Formal
+813,62,Masculino,Cusco,Rural,Freelance,59,1653.95,Salud y pensión,No,Informal
+814,64,Femenino,Huancavelica,Rural,Empleo formal,29,1303.51,Salud y pensión,No,Informal
+815,27,Masculino,Arequipa,Urbana,Microempresa,55,1217.58,Salud y pensión,No,Informal
+816,36,Masculino,Arequipa,Urbana,Empleo formal,30,993.02,Ninguno,No,Informal
+817,62,Femenino,Lambayeque,Urbana,Servicio doméstico,47,861.75,Ninguno,No,Formal
+818,31,Femenino,Lambayeque,Urbana,Empleo formal,31,1593.39,Salud y pensión,Sí,Formal
+819,30,Masculino,Arequipa,Urbana,Comercio ambulante,53,1702.12,Solo salud,Sí,Informal
+820,58,Femenino,Huancavelica,Urbana,Empleo formal,55,608.43,Solo salud,No,Formal
+821,50,Masculino,Lima,Urbana,Comercio ambulante,22,681.33,Salud y pensión,No,Formal
+822,29,Femenino,Arequipa,Urbana,Freelance,35,837.22,Ninguno,No,Formal
+823,29,Masculino,Lambayeque,Urbana,Comercio ambulante,57,332.03,Ninguno,No,Informal
+824,47,Femenino,Huancavelica,Urbana,Empleo formal,52,816.91,Solo salud,Sí,Informal
+825,48,Femenino,Huancavelica,Rural,Empleo formal,13,1254.0,Ninguno,Sí,Informal
+826,60,Masculino,San Martín,Urbana,Comercio ambulante,13,743.64,Ninguno,Sí,Informal
+827,41,Femenino,Arequipa,Urbana,Servicio doméstico,58,2069.39,Ninguno,No,Formal
+828,58,Femenino,Huancavelica,Urbana,Comercio ambulante,43,1180.37,Ninguno,No,Informal
+829,46,Femenino,Lima,Rural,Microempresa,34,1302.66,Ninguno,Sí,Formal
+830,21,Femenino,Lima,Urbana,Comercio ambulante,46,931.58,Salud y pensión,Sí,Informal
+831,57,Masculino,Arequipa,Urbana,Microempresa,37,513.63,Salud y pensión,Sí,Informal
+832,54,Masculino,Huancavelica,Rural,Freelance,28,783.84,Ninguno,No,Informal
+833,62,Femenino,San Martín,Rural,Microempresa,21,360.04,Salud y pensión,Sí,Informal
+834,39,Masculino,Huancavelica,Rural,Servicio doméstico,43,1077.78,Salud y pensión,Sí,Formal
+835,54,Masculino,Lambayeque,Urbana,Freelance,56,676.3,Salud y pensión,Sí,Formal
+836,50,Masculino,Arequipa,Urbana,Comercio ambulante,34,1256.55,Solo salud,Sí,Formal
+837,55,Masculino,San Martín,Urbana,Comercio ambulante,23,485.82,Ninguno,No,Informal
+838,32,Femenino,San Martín,Urbana,Microempresa,42,1066.96,Ninguno,No,Formal
+839,27,Masculino,Cusco,Urbana,Servicio doméstico,49,836.16,Solo salud,No,Informal
+840,60,Masculino,Lambayeque,Urbana,Comercio ambulante,27,702.04,Ninguno,No,Formal
+841,19,Masculino,Cusco,Rural,Comercio ambulante,37,1395.96,Solo salud,No,Informal
+842,23,Femenino,San Martín,Urbana,Microempresa,40,1179.92,Solo salud,No,Informal
+843,47,Femenino,Arequipa,Urbana,Empleo formal,38,957.35,Ninguno,No,Formal
+844,36,Femenino,Lima,Urbana,Microempresa,59,1051.41,Ninguno,No,Informal
+845,62,Femenino,Arequipa,Urbana,Empleo formal,45,1412.01,Solo salud,No,Informal
+846,19,Femenino,Cusco,Urbana,Microempresa,26,703.35,Solo salud,No,Informal
+847,57,Masculino,Lambayeque,Urbana,Comercio ambulante,36,1538.1,Salud y pensión,No,Informal
+848,42,Masculino,Lima,Urbana,Empleo formal,37,1292.67,Ninguno,No,Formal
+849,59,Femenino,Cusco,Urbana,Comercio ambulante,47,1394.01,Salud y pensión,No,Informal
+850,53,Masculino,Cusco,Urbana,Comercio ambulante,18,661.7,Solo salud,No,Informal
+851,49,Femenino,Cusco,Urbana,Freelance,21,1134.96,Salud y pensión,No,Formal
+852,29,Femenino,Arequipa,Urbana,Microempresa,12,1111.39,Salud y pensión,No,Informal
+853,55,Femenino,Arequipa,Urbana,Empleo formal,13,1471.66,Ninguno,No,Informal
+854,25,Femenino,Huancavelica,Urbana,Freelance,20,614.53,Ninguno,Sí,Informal
+855,25,Masculino,Arequipa,Urbana,Freelance,55,1768.87,Solo salud,No,Informal
+856,35,Femenino,Lima,Rural,Servicio doméstico,34,921.49,Solo salud,No,Formal
+857,64,Masculino,Lima,Urbana,Microempresa,48,1713.15,Ninguno,No,Formal
+858,32,Femenino,Huancavelica,Urbana,Empleo formal,41,1376.9,Salud y pensión,Sí,Formal
+859,43,Masculino,San Martín,Urbana,Microempresa,51,787.02,Ninguno,Sí,Informal
+860,41,Femenino,Huancavelica,Urbana,Comercio ambulante,27,595.38,Solo salud,Sí,Formal
+861,45,Masculino,San Martín,Urbana,Empleo formal,46,1329.97,Ninguno,No,Informal
+862,29,Femenino,San Martín,Rural,Empleo formal,55,766.55,Solo salud,No,Informal
+863,27,Masculino,Lima,Urbana,Empleo formal,12,1294.85,Solo salud,Sí,Informal
+864,55,Masculino,Cusco,Urbana,Freelance,58,1307.66,Ninguno,No,Formal
+865,42,Femenino,Cusco,Rural,Servicio doméstico,58,575.37,Solo salud,Sí,Informal
+866,18,Masculino,San Martín,Rural,Freelance,37,590.96,Solo salud,No,Informal
+867,37,Masculino,Cusco,Urbana,Servicio doméstico,39,922.35,Ninguno,Sí,Informal
+868,49,Femenino,San Martín,Urbana,Servicio doméstico,30,1283.49,Ninguno,No,Informal
+869,43,Masculino,San Martín,Urbana,Comercio ambulante,20,733.73,Solo salud,No,Informal
+870,35,Femenino,Lima,Urbana,Freelance,56,733.91,Ninguno,No,Formal
+871,50,Masculino,Arequipa,Rural,Freelance,56,1018.28,Salud y pensión,Sí,Informal
+872,54,Femenino,San Martín,Urbana,Microempresa,36,1700.29,Ninguno,No,Formal
+873,34,Femenino,Arequipa,Urbana,Microempresa,45,2079.43,Ninguno,Sí,Informal
+874,28,Masculino,Cusco,Rural,Freelance,41,1029.66,Solo salud,No,Informal
+875,57,Femenino,San Martín,Urbana,Empleo formal,32,829.55,Ninguno,Sí,Informal
+876,61,Masculino,Lambayeque,Urbana,Microempresa,39,1066.54,Salud y pensión,No,Informal
+877,59,Masculino,Arequipa,Rural,Empleo formal,51,1228.54,Ninguno,No,Informal
+878,60,Masculino,Lima,Urbana,Microempresa,51,1245.69,Salud y pensión,No,Informal
+879,52,Femenino,Huancavelica,Urbana,Comercio ambulante,17,1060.15,Solo salud,No,Formal
+880,44,Masculino,Huancavelica,Rural,Microempresa,32,933.85,Ninguno,Sí,Informal
+881,62,Masculino,Lambayeque,Urbana,Empleo formal,40,1724.02,Salud y pensión,No,Informal
+882,27,Femenino,Cusco,Urbana,Microempresa,31,1640.13,Ninguno,Sí,Informal
+883,54,Femenino,Cusco,Urbana,Servicio doméstico,42,1000.8,Ninguno,Sí,Informal
+884,48,Femenino,Cusco,Urbana,Servicio doméstico,13,1656.69,Solo salud,Sí,Formal
+885,28,Masculino,Lambayeque,Urbana,Microempresa,56,583.22,Solo salud,Sí,Informal
+886,40,Femenino,Lambayeque,Rural,Comercio ambulante,38,768.59,Solo salud,No,Informal
+887,47,Masculino,Lima,Urbana,Servicio doméstico,46,1273.97,Solo salud,No,Informal
+888,48,Femenino,Cusco,Urbana,Comercio ambulante,58,785.05,Salud y pensión,No,Informal
+889,35,Femenino,Lima,Urbana,Microempresa,18,1082.51,Ninguno,No,Informal
+890,39,Femenino,Arequipa,Rural,Empleo formal,34,1929.57,Ninguno,No,Informal
+891,55,Masculino,Lima,Urbana,Comercio ambulante,49,2107.6,Ninguno,No,Informal
+892,50,Masculino,Cusco,Rural,Empleo formal,30,886.24,Ninguno,No,Formal
+893,19,Masculino,Huancavelica,Urbana,Comercio ambulante,59,1207.17,Ninguno,No,Informal
+894,41,Femenino,Lima,Urbana,Servicio doméstico,18,1051.45,Ninguno,No,Informal
+895,19,Masculino,Huancavelica,Urbana,Freelance,24,1061.89,Solo salud,Sí,Informal
+896,23,Femenino,San Martín,Urbana,Microempresa,52,1280.17,Solo salud,Sí,Informal
+897,61,Masculino,Cusco,Rural,Empleo formal,51,214.61,Solo salud,Sí,Informal
+898,49,Masculino,Cusco,Urbana,Comercio ambulante,44,711.23,Solo salud,No,Formal
+899,44,Femenino,Lambayeque,Urbana,Comercio ambulante,50,901.74,Salud y pensión,Sí,Informal
+900,26,Femenino,Huancavelica,Urbana,Comercio ambulante,56,1644.89,Ninguno,No,Formal
+901,46,Femenino,Huancavelica,Urbana,Microempresa,49,2314.51,Ninguno,Sí,Informal
+902,18,Femenino,Cusco,Urbana,Freelance,13,892.87,Ninguno,No,Informal
+903,55,Femenino,Lambayeque,Rural,Servicio doméstico,46,496.66,Ninguno,Sí,Formal
+904,51,Masculino,Arequipa,Rural,Comercio ambulante,26,699.33,Salud y pensión,Sí,Informal
+905,33,Femenino,Cusco,Urbana,Servicio doméstico,27,731.85,Ninguno,Sí,Informal
+906,59,Femenino,Lima,Urbana,Comercio ambulante,14,1775.44,Solo salud,No,Formal
+907,23,Masculino,San Martín,Rural,Servicio doméstico,25,670.82,Ninguno,No,Informal
+908,27,Femenino,Cusco,Urbana,Freelance,16,853.91,Ninguno,Sí,Informal
+909,52,Femenino,San Martín,Urbana,Comercio ambulante,48,1196.71,Solo salud,Sí,Formal
+910,62,Femenino,San Martín,Urbana,Comercio ambulante,33,1897.6,Solo salud,Sí,Informal
+911,35,Masculino,Lambayeque,Rural,Comercio ambulante,10,1007.74,Solo salud,No,Informal
+912,45,Masculino,Huancavelica,Urbana,Microempresa,56,1179.37,Solo salud,No,Formal
+913,33,Masculino,Lambayeque,Urbana,Microempresa,27,1404.32,Salud y pensión,Sí,Informal
+914,49,Masculino,Huancavelica,Urbana,Servicio doméstico,24,903.32,Salud y pensión,Sí,Formal
+915,64,Femenino,San Martín,Rural,Servicio doméstico,52,921.51,Ninguno,No,Formal
+916,59,Masculino,Huancavelica,Urbana,Microempresa,27,1029.46,Salud y pensión,No,Informal
+917,34,Masculino,San Martín,Urbana,Comercio ambulante,52,828.81,Salud y pensión,No,Informal
+918,41,Femenino,San Martín,Urbana,Freelance,18,210.9,Ninguno,No,Formal
+919,23,Femenino,Lima,Urbana,Comercio ambulante,21,487.38,Ninguno,No,Informal
+920,28,Femenino,Arequipa,Urbana,Comercio ambulante,43,608.66,Ninguno,Sí,Formal
+921,44,Masculino,San Martín,Urbana,Comercio ambulante,48,885.3,Ninguno,No,Informal
+922,62,Masculino,Lambayeque,Urbana,Comercio ambulante,25,744.5,Solo salud,No,Formal
+923,58,Masculino,San Martín,Urbana,Microempresa,40,1181.87,Ninguno,No,Formal
+924,32,Femenino,Lima,Urbana,Comercio ambulante,36,1166.45,Solo salud,No,Formal
+925,60,Femenino,San Martín,Urbana,Servicio doméstico,58,1547.98,Salud y pensión,No,Informal
+926,49,Masculino,San Martín,Urbana,Servicio doméstico,39,1228.33,Ninguno,No,Informal
+927,34,Femenino,Lima,Urbana,Freelance,24,1081.31,Ninguno,No,Formal
+928,22,Masculino,Arequipa,Rural,Empleo formal,25,830.75,Ninguno,Sí,Informal
+929,19,Femenino,San Martín,Urbana,Comercio ambulante,41,1079.7,Salud y pensión,No,Informal
+930,51,Femenino,Arequipa,Rural,Microempresa,50,320.39,Ninguno,No,Informal
+931,26,Femenino,Huancavelica,Urbana,Servicio doméstico,30,1694.13,Ninguno,No,Formal
+932,58,Femenino,Huancavelica,Urbana,Comercio ambulante,22,704.03,Salud y pensión,No,Informal
+933,25,Masculino,Cusco,Urbana,Servicio doméstico,26,1394.47,Ninguno,No,Formal
+934,53,Masculino,Cusco,Rural,Microempresa,57,607.83,Ninguno,Sí,Formal
+935,35,Masculino,Lima,Urbana,Freelance,56,1341.88,Ninguno,No,Informal
+936,47,Femenino,Huancavelica,Rural,Freelance,17,1270.53,Salud y pensión,No,Informal
+937,54,Masculino,Arequipa,Urbana,Microempresa,19,1373.52,Ninguno,No,Informal
+938,54,Femenino,San Martín,Urbana,Microempresa,58,1430.03,Solo salud,Sí,Informal
+939,56,Femenino,Lima,Urbana,Servicio doméstico,11,853.14,Salud y pensión,Sí,Informal
+940,64,Femenino,Cusco,Urbana,Microempresa,45,1064.85,Ninguno,Sí,Informal
+941,50,Femenino,Cusco,Rural,Empleo formal,19,905.35,Solo salud,No,Informal
+942,24,Femenino,Huancavelica,Rural,Comercio ambulante,51,1615.77,Ninguno,No,Formal
+943,64,Femenino,San Martín,Urbana,Microempresa,25,1217.32,Salud y pensión,No,Formal
+944,52,Masculino,Huancavelica,Urbana,Freelance,45,1333.36,Solo salud,Sí,Informal
+945,24,Femenino,Lambayeque,Urbana,Freelance,17,1628.99,Ninguno,Sí,Informal
+946,19,Femenino,Arequipa,Rural,Microempresa,37,1628.17,Solo salud,No,Formal
+947,42,Femenino,Lambayeque,Urbana,Empleo formal,10,1366.09,Solo salud,Sí,Formal
+948,42,Masculino,Lima,Urbana,Servicio doméstico,44,531.15,Ninguno,No,Informal
+949,24,Masculino,San Martín,Urbana,Microempresa,40,1664.04,Solo salud,No,Informal
+950,45,Femenino,Lambayeque,Urbana,Servicio doméstico,35,1599.57,Solo salud,No,Informal
+951,56,Masculino,Cusco,Rural,Empleo formal,54,851.23,Salud y pensión,Sí,Informal
+952,42,Femenino,San Martín,Urbana,Microempresa,47,1352.46,Ninguno,No,Formal
+953,36,Masculino,San Martín,Urbana,Microempresa,15,2481.36,Salud y pensión,Sí,Informal
+954,58,Femenino,Lima,Urbana,Freelance,46,909.71,Ninguno,Sí,Informal
+955,58,Masculino,Lima,Rural,Microempresa,14,712.4,Ninguno,No,Informal
+956,36,Masculino,Cusco,Rural,Microempresa,33,393.66,Ninguno,No,Informal
+957,46,Femenino,Huancavelica,Urbana,Microempresa,27,1830.29,Ninguno,No,Informal
+958,31,Femenino,Cusco,Rural,Servicio doméstico,10,623.78,Solo salud,No,Formal
+959,50,Femenino,Lima,Rural,Servicio doméstico,14,1666.11,Salud y pensión,No,Informal
+960,29,Masculino,Huancavelica,Urbana,Microempresa,49,1730.25,Ninguno,No,Formal
+961,59,Masculino,Huancavelica,Urbana,Comercio ambulante,36,829.41,Ninguno,Sí,Informal
+962,25,Masculino,Lima,Urbana,Empleo formal,29,1275.85,Ninguno,No,Informal
+963,50,Femenino,Arequipa,Urbana,Empleo formal,29,1202.54,Ninguno,No,Informal
+964,22,Masculino,Arequipa,Rural,Servicio doméstico,49,1655.68,Ninguno,No,Informal
+965,52,Femenino,Huancavelica,Rural,Freelance,26,531.14,Solo salud,Sí,Informal
+966,24,Masculino,San Martín,Urbana,Empleo formal,32,415.44,Solo salud,No,Informal
+967,53,Masculino,Arequipa,Urbana,Microempresa,37,1592.61,Ninguno,No,Informal
+968,18,Femenino,Cusco,Rural,Empleo formal,24,144.8,Solo salud,No,Informal
+969,31,Masculino,Arequipa,Urbana,Microempresa,45,1523.49,Salud y pensión,No,Formal
+970,33,Femenino,Lima,Urbana,Freelance,56,1417.75,Ninguno,No,Informal
+971,52,Femenino,Lambayeque,Urbana,Comercio ambulante,49,1553.32,Solo salud,No,Informal
+972,21,Femenino,Lambayeque,Urbana,Comercio ambulante,25,1364.98,Salud y pensión,Sí,Informal
+973,42,Femenino,Huancavelica,Rural,Empleo formal,59,1445.06,Salud y pensión,No,Informal
+974,64,Masculino,Lima,Rural,Microempresa,41,1358.07,Solo salud,Sí,Formal
+975,35,Masculino,Arequipa,Urbana,Comercio ambulante,38,1132.66,Ninguno,No,Informal
+976,52,Masculino,Arequipa,Rural,Microempresa,53,1143.08,Ninguno,Sí,Informal
+977,58,Masculino,Lima,Urbana,Microempresa,26,1991.48,Salud y pensión,No,Informal
+978,55,Femenino,San Martín,Rural,Servicio doméstico,23,1170.57,Ninguno,Sí,Formal
+979,59,Femenino,Lima,Rural,Comercio ambulante,49,1643.87,Solo salud,Sí,Formal
+980,53,Femenino,Cusco,Rural,Servicio doméstico,45,1413.8,Solo salud,No,Informal
+981,52,Masculino,Huancavelica,Urbana,Servicio doméstico,38,642.39,Solo salud,No,Informal
+982,54,Femenino,Lima,Urbana,Comercio ambulante,37,1621.57,Ninguno,No,Formal
+983,57,Masculino,Cusco,Urbana,Servicio doméstico,21,701.78,Solo salud,No,Informal
+984,20,Femenino,Arequipa,Rural,Comercio ambulante,56,1050.88,Solo salud,No,Informal
+985,50,Masculino,Arequipa,Urbana,Microempresa,35,191.5,Ninguno,Sí,Formal
+986,39,Masculino,Huancavelica,Rural,Comercio ambulante,14,2065.61,Solo salud,No,Formal
+987,29,Femenino,Lambayeque,Urbana,Empleo formal,37,785.21,Solo salud,No,Informal
+988,40,Femenino,Lima,Urbana,Microempresa,35,310.24,Ninguno,No,Formal
+989,26,Masculino,Lima,Urbana,Comercio ambulante,56,942.07,Salud y pensión,Sí,Formal
+990,53,Femenino,Arequipa,Urbana,Comercio ambulante,45,922.31,Solo salud,No,Informal
+991,56,Masculino,Lambayeque,Urbana,Empleo formal,43,1080.16,Solo salud,No,Informal
+992,57,Femenino,Lima,Rural,Microempresa,41,1402.51,Ninguno,Sí,Informal
+993,46,Masculino,Lambayeque,Urbana,Microempresa,51,711.33,Ninguno,Sí,Informal
+994,35,Masculino,Lima,Urbana,Comercio ambulante,39,1257.79,Ninguno,Sí,Informal
+995,64,Femenino,Huancavelica,Urbana,Empleo formal,39,812.71,Salud y pensión,Sí,Informal
+996,21,Masculino,Lima,Urbana,Freelance,42,1017.49,Ninguno,No,Formal
+997,62,Masculino,Cusco,Urbana,Microempresa,51,1542.06,Ninguno,No,Formal
+998,41,Masculino,Huancavelica,Rural,Comercio ambulante,34,1505.82,Salud y pensión,No,Informal
+999,49,Masculino,San Martín,Urbana,Servicio doméstico,35,756.64,Salud y pensión,No,Formal
+1000,29,Masculino,Arequipa,Rural,Empleo formal,46,846.99,Ninguno,Sí,Informal
+1001,20,Masculino,San Martín,Urbana,Microempresa,51,983.82,Ninguno,No,Formal
+1002,56,Masculino,Arequipa,Urbana,Comercio ambulante,25,513.2,Ninguno,Sí,Informal
+1003,25,Femenino,Lima,Rural,Freelance,48,1361.97,Ninguno,No,Informal
+1004,33,Femenino,San Martín,Rural,Empleo formal,37,858.32,Solo salud,No,Informal
+1005,33,Femenino,Cusco,Urbana,Microempresa,35,52.55,Ninguno,No,Informal
+1006,21,Femenino,Arequipa,Urbana,Microempresa,53,691.3,Ninguno,Sí,Formal
+1007,28,Masculino,Lima,Urbana,Servicio doméstico,53,1526.24,Salud y pensión,Sí,Informal
+1008,38,Femenino,Huancavelica,Urbana,Comercio ambulante,41,1234.25,Solo salud,No,Informal
+1009,35,Femenino,Arequipa,Urbana,Empleo formal,24,2274.49,Ninguno,No,Formal
+1010,18,Masculino,Arequipa,Urbana,Microempresa,14,2158.01,Salud y pensión,No,Formal
+1011,40,Femenino,Lambayeque,Urbana,Microempresa,49,822.41,Ninguno,No,Informal
+1012,20,Masculino,San Martín,Urbana,Servicio doméstico,59,1361.72,Ninguno,No,Informal
+1013,63,Femenino,Cusco,Urbana,Comercio ambulante,43,2143.14,Ninguno,No,Informal
+1014,63,Femenino,Huancavelica,Rural,Empleo formal,17,851.04,Ninguno,No,Formal
+1015,57,Femenino,Arequipa,Urbana,Microempresa,27,923.71,Solo salud,Sí,Formal
+1016,36,Femenino,Cusco,Urbana,Empleo formal,22,809.97,Ninguno,No,Formal
+1017,41,Femenino,Huancavelica,Urbana,Servicio doméstico,11,426.35,Ninguno,No,Informal
+1018,35,Femenino,Huancavelica,Urbana,Comercio ambulante,14,2371.4676741652784,Ninguno,Sí,Formal
+1019,63,Femenino,Arequipa,Urbana,Microempresa,28,188.89,Solo salud,No,Formal
+1020,31,Masculino,Cusco,Urbana,Microempresa,22,1713.89,Salud y pensión,No,Formal
+1021,52,Femenino,Huancavelica,Urbana,Comercio ambulante,33,1269.95,Ninguno,No,Informal
+1022,64,Femenino,Lima,Rural,Empleo formal,47,1316.37,Solo salud,No,Formal
+1023,22,Masculino,Huancavelica,Rural,Comercio ambulante,50,1267.16,Solo salud,No,Informal
+1024,45,Masculino,Lambayeque,Urbana,Empleo formal,18,661.49,Ninguno,No,Informal
+1025,40,Masculino,Arequipa,Rural,Comercio ambulante,36,1632.96,Solo salud,Sí,Formal
+1026,39,Masculino,San Martín,Urbana,Microempresa,12,1745.27,Ninguno,No,Informal
+1027,55,Masculino,San Martín,Urbana,Microempresa,35,1384.53,Salud y pensión,No,Informal
+1028,46,Femenino,Lambayeque,Urbana,Comercio ambulante,56,537.34,Salud y pensión,No,Informal
+1029,50,Masculino,Arequipa,Urbana,Microempresa,12,1256.37,Salud y pensión,Sí,Informal
+1030,61,Masculino,San Martín,Urbana,Comercio ambulante,31,926.78,Solo salud,Sí,Informal
+1031,59,Masculino,San Martín,Urbana,Empleo formal,18,1184.32,Solo salud,No,Formal
+1032,33,Femenino,Lima,Urbana,Microempresa,12,1055.3,Ninguno,No,Formal
+1033,46,Femenino,Huancavelica,Urbana,Microempresa,53,1561.5,Salud y pensión,No,Informal
+1034,42,Femenino,Lambayeque,Urbana,Microempresa,57,1006.6,Ninguno,No,Informal
+1035,57,Masculino,Lambayeque,Urbana,Servicio doméstico,28,1263.77,Salud y pensión,No,Informal
+1036,24,Masculino,Lima,Urbana,Microempresa,56,1690.18,Solo salud,Sí,Informal
+1037,28,Masculino,Huancavelica,Urbana,Servicio doméstico,22,119.06,Solo salud,No,Informal
+1038,24,Masculino,Huancavelica,Urbana,Microempresa,25,2031.94,Ninguno,No,Informal
+1039,39,Femenino,Lima,Rural,Empleo formal,53,660.57,Salud y pensión,Sí,Informal
+1040,58,Masculino,Huancavelica,Urbana,Microempresa,29,1388.9,Ninguno,No,Informal
+1041,37,Femenino,Huancavelica,Urbana,Servicio doméstico,42,881.06,Salud y pensión,No,Informal
+1042,42,Femenino,Lima,Urbana,Microempresa,28,1247.49,Solo salud,No,Informal
+1043,62,Masculino,San Martín,Rural,Microempresa,53,1144.95,Solo salud,No,Informal
+1044,61,Femenino,San Martín,Urbana,Servicio doméstico,51,593.97,Salud y pensión,Sí,Informal
+1045,43,Masculino,Huancavelica,Urbana,Empleo formal,25,1726.68,Ninguno,No,Informal
+1046,47,Masculino,Huancavelica,Urbana,Comercio ambulante,44,1206.06,Ninguno,No,Informal
+1047,45,Femenino,San Martín,Rural,Microempresa,25,1166.67,Salud y pensión,No,Formal
+1048,52,Masculino,Huancavelica,Urbana,Comercio ambulante,27,1135.63,Salud y pensión,No,Informal
+1049,35,Masculino,Huancavelica,Urbana,Freelance,28,972.59,Solo salud,Sí,Informal
+1050,33,Femenino,San Martín,Urbana,Microempresa,41,949.36,Solo salud,Sí,Informal
+1051,59,Masculino,Cusco,Rural,Freelance,42,1137.48,Salud y pensión,Sí,Informal
+1052,30,Masculino,Cusco,Urbana,Servicio doméstico,46,1731.7,Solo salud,No,Informal
+1053,43,Femenino,Lima,Urbana,Empleo formal,43,1288.37,Ninguno,No,Formal
+1054,62,Masculino,Arequipa,Urbana,Comercio ambulante,13,1545.62,Salud y pensión,No,Informal
+1055,39,Femenino,Lambayeque,Rural,Comercio ambulante,57,625.72,Solo salud,No,Informal
+1056,53,Masculino,Cusco,Urbana,Microempresa,55,934.34,Solo salud,No,Informal
+1057,23,Masculino,Lima,Rural,Comercio ambulante,18,1133.74,Salud y pensión,Sí,Informal
+1058,53,Masculino,Cusco,Rural,Servicio doméstico,23,607.59,Ninguno,No,Informal
+1059,45,Femenino,Lima,Urbana,Microempresa,32,500.39,Solo salud,No,Informal
+1060,57,Femenino,San Martín,Urbana,Empleo formal,53,1769.67,Ninguno,Sí,Informal
+1061,56,Femenino,Cusco,Urbana,Freelance,18,1702.37,Ninguno,No,Formal
+1062,44,Masculino,Lambayeque,Rural,Microempresa,52,596.25,Salud y pensión,Sí,Informal
+1063,19,Femenino,San Martín,Urbana,Empleo formal,47,1007.09,Ninguno,Sí,Informal
+1064,40,Femenino,Cusco,Urbana,Comercio ambulante,25,826.11,Solo salud,No,Informal
+1065,51,Femenino,San Martín,Rural,Empleo formal,29,1821.05,Salud y pensión,No,Informal
+1066,34,Femenino,Lima,Urbana,Microempresa,22,996.39,Ninguno,Sí,Formal
+1067,39,Masculino,San Martín,Rural,Freelance,40,730.22,Salud y pensión,No,Informal
+1068,54,Femenino,Huancavelica,Rural,Microempresa,10,450.43,Salud y pensión,No,Informal
+1069,45,Masculino,Arequipa,Rural,Comercio ambulante,56,1744.32,Ninguno,No,Informal
+1070,37,Femenino,Huancavelica,Urbana,Microempresa,50,1342.68,Ninguno,No,Formal
+1071,33,Masculino,Cusco,Urbana,Servicio doméstico,40,1737.79,Salud y pensión,No,Formal
+1072,45,Femenino,Huancavelica,Urbana,Empleo formal,25,1286.47,Ninguno,No,Informal
+1073,33,Femenino,Arequipa,Rural,Freelance,13,1621.24,Ninguno,Sí,Informal
+1074,34,Femenino,Arequipa,Urbana,Empleo formal,37,2062.55,Solo salud,No,Formal
+1075,39,Masculino,Huancavelica,Urbana,Microempresa,11,1223.72,Ninguno,No,Informal
+1076,27,Masculino,Lambayeque,Urbana,Servicio doméstico,23,1368.32,Ninguno,Sí,Formal
+1077,30,Masculino,Lambayeque,Urbana,Empleo formal,19,1404.38,Solo salud,Sí,Formal
+1078,47,Masculino,Lima,Urbana,Microempresa,44,1355.56,Salud y pensión,No,Formal
+1079,44,Masculino,Lambayeque,Urbana,Comercio ambulante,35,1092.58,Solo salud,No,Informal
+1080,56,Masculino,Lima,Urbana,Freelance,19,632.9,Ninguno,Sí,Formal
+1081,42,Masculino,Huancavelica,Rural,Freelance,56,356.02,Solo salud,Sí,Informal
+1082,22,Femenino,Huancavelica,Rural,Comercio ambulante,48,1430.92,Salud y pensión,No,Informal
+1083,20,Femenino,Huancavelica,Urbana,Comercio ambulante,31,533.84,Solo salud,No,Informal
+1084,22,Femenino,San Martín,Rural,Empleo formal,57,747.21,Ninguno,Sí,Informal
+1085,48,Masculino,Huancavelica,Rural,Empleo formal,30,2200.64,Ninguno,Sí,Formal
+1086,28,Masculino,Huancavelica,Urbana,Comercio ambulante,34,376.95,Ninguno,Sí,Informal
+1087,20,Femenino,Lambayeque,Urbana,Servicio doméstico,17,1062.69,Ninguno,Sí,Informal
+1088,25,Masculino,Lima,Urbana,Comercio ambulante,38,1187.2,Ninguno,Sí,Informal
+1089,59,Masculino,Arequipa,Urbana,Microempresa,43,310.17,Ninguno,Sí,Informal
+1090,25,Masculino,Arequipa,Urbana,Comercio ambulante,31,673.66,Ninguno,No,Informal
+1091,29,Femenino,Cusco,Rural,Servicio doméstico,14,1115.01,Ninguno,Sí,Informal
+1092,18,Masculino,Cusco,Urbana,Microempresa,44,1135.4,Ninguno,Sí,Formal
+1093,64,Femenino,Arequipa,Urbana,Microempresa,27,1495.15,Solo salud,No,Informal
+1094,30,Femenino,Lambayeque,Rural,Microempresa,34,859.36,Solo salud,No,Informal
+1095,47,Femenino,San Martín,Urbana,Servicio doméstico,31,1237.22,Ninguno,Sí,Informal
+1096,40,Femenino,Cusco,Urbana,Empleo formal,20,1491.49,Ninguno,No,Formal
+1097,30,Femenino,Lambayeque,Urbana,Comercio ambulante,59,1486.59,Salud y pensión,Sí,Informal
+1098,53,Femenino,San Martín,Urbana,Microempresa,15,1285.06,Ninguno,No,Formal
+1099,42,Femenino,Lambayeque,Rural,Comercio ambulante,41,1148.34,Solo salud,No,Informal
+1100,47,Masculino,Lima,Rural,Empleo formal,32,885.18,Ninguno,No,Informal
+1101,18,Masculino,Cusco,Rural,Servicio doméstico,46,953.76,Ninguno,Sí,Formal
+1102,60,Femenino,Cusco,Urbana,Freelance,21,1504.87,Salud y pensión,No,Formal
+1103,41,Femenino,Arequipa,Rural,Servicio doméstico,26,1071.42,Ninguno,Sí,Formal
+1104,27,Femenino,Cusco,Urbana,Microempresa,43,1231.43,Solo salud,No,Informal
+1105,21,Masculino,Arequipa,Urbana,Comercio ambulante,30,1417.5,Ninguno,No,Formal
+1106,24,Femenino,Lambayeque,Urbana,Microempresa,59,1271.69,Salud y pensión,No,Informal
+1107,62,Femenino,Arequipa,Urbana,Freelance,22,820.77,Ninguno,No,Informal
+1108,58,Femenino,Lima,Urbana,Servicio doméstico,52,2224.2,Salud y pensión,No,Formal
+1109,39,Masculino,Cusco,Urbana,Comercio ambulante,40,1477.59,Ninguno,No,Formal
+1110,22,Masculino,San Martín,Urbana,Comercio ambulante,32,1748.14,Ninguno,Sí,Formal
+1111,46,Femenino,Lima,Rural,Empleo formal,34,1048.48,Ninguno,No,Informal
+1112,28,Masculino,San Martín,Urbana,Microempresa,24,1238.95,Ninguno,Sí,Informal
+1113,35,Masculino,Arequipa,Urbana,Servicio doméstico,26,1060.87,Salud y pensión,Sí,Formal
+1114,62,Masculino,Cusco,Rural,Comercio ambulante,38,1238.65,Solo salud,No,Informal
+1115,55,Femenino,Lambayeque,Rural,Comercio ambulante,51,1499.63,Solo salud,Sí,Informal
+1116,23,Femenino,Cusco,Urbana,Microempresa,41,1590.51,Ninguno,Sí,Informal
+1117,25,Masculino,Arequipa,Urbana,Microempresa,46,1751.91,Solo salud,No,Formal
+1118,20,Femenino,Lambayeque,Rural,Empleo formal,46,367.11,Ninguno,No,Informal
+1119,40,Masculino,Lambayeque,Urbana,Comercio ambulante,42,593.68,Ninguno,No,Informal
+1120,39,Femenino,Lambayeque,Urbana,Comercio ambulante,16,941.2,Ninguno,Sí,Formal
+1121,39,Femenino,Cusco,Urbana,Microempresa,22,1156.39,Ninguno,Sí,Informal
+1122,37,Masculino,Lima,Urbana,Empleo formal,17,1965.35,Salud y pensión,No,Informal
+1123,18,Masculino,Huancavelica,Rural,Empleo formal,20,1449.43,Ninguno,No,Informal
+1124,29,Femenino,Huancavelica,Urbana,Servicio doméstico,51,1585.93,Ninguno,No,Informal
+1125,55,Masculino,Huancavelica,Rural,Comercio ambulante,30,795.61,Solo salud,No,Informal
+1126,19,Masculino,Cusco,Urbana,Microempresa,45,1387.82,Salud y pensión,Sí,Informal
+1127,45,Femenino,San Martín,Urbana,Microempresa,32,1147.82,Solo salud,Sí,Informal
+1128,50,Masculino,Cusco,Urbana,Empleo formal,27,1580.68,Ninguno,No,Informal
+1129,63,Masculino,Lambayeque,Urbana,Empleo formal,45,1013.14,Ninguno,No,Informal
+1130,40,Masculino,Lambayeque,Rural,Empleo formal,56,965.64,Salud y pensión,No,Informal
+1131,47,Femenino,San Martín,Rural,Comercio ambulante,34,999.34,Solo salud,Sí,Informal
+1132,33,Femenino,Huancavelica,Urbana,Empleo formal,49,1034.65,Ninguno,No,Informal
+1133,32,Femenino,Arequipa,Urbana,Microempresa,31,1930.13,Ninguno,Sí,Formal
+1134,22,Masculino,Lima,Rural,Empleo formal,41,924.97,Solo salud,No,Formal
+1135,50,Masculino,Lambayeque,Urbana,Empleo formal,29,169.32,Solo salud,No,Informal
+1136,55,Masculino,Lambayeque,Urbana,Empleo formal,25,528.09,Ninguno,Sí,Informal
+1137,42,Femenino,Lambayeque,Urbana,Empleo formal,43,443.35,Ninguno,No,Informal
+1138,26,Masculino,Lambayeque,Rural,Empleo formal,43,825.61,Solo salud,No,Informal
+1139,23,Masculino,Arequipa,Urbana,Microempresa,55,1506.29,Solo salud,Sí,Informal
+1140,51,Masculino,Huancavelica,Urbana,Servicio doméstico,22,682.88,Salud y pensión,Sí,Formal
+1141,27,Femenino,San Martín,Urbana,Microempresa,27,612.4,Solo salud,No,Informal
+1142,34,Femenino,Lambayeque,Urbana,Freelance,25,767.16,Solo salud,Sí,Formal
+1143,54,Femenino,Arequipa,Urbana,Empleo formal,47,1350.45,Salud y pensión,No,Informal
+1144,63,Femenino,Cusco,Urbana,Empleo formal,49,1362.27,Ninguno,Sí,Informal
+1145,19,Masculino,Huancavelica,Urbana,Servicio doméstico,16,1037.93,Salud y pensión,No,Informal
+1146,51,Femenino,Cusco,Urbana,Microempresa,13,1112.58,Salud y pensión,No,Formal
+1147,24,Masculino,Arequipa,Rural,Microempresa,50,1576.84,Solo salud,Sí,Formal
+1148,63,Masculino,Cusco,Urbana,Servicio doméstico,29,1551.6,Ninguno,Sí,Informal
+1149,47,Femenino,Huancavelica,Rural,Comercio ambulante,17,911.61,Solo salud,No,Formal
+1150,28,Masculino,Huancavelica,Rural,Microempresa,33,1260.37,Ninguno,No,Formal
+1151,46,Femenino,Arequipa,Rural,Comercio ambulante,44,533.5,Ninguno,No,Informal
+1152,62,Masculino,Cusco,Urbana,Empleo formal,20,1085.14,Solo salud,No,Informal
+1153,49,Femenino,Lambayeque,Urbana,Servicio doméstico,50,1299.43,Solo salud,No,Informal
+1154,42,Masculino,Lambayeque,Urbana,Microempresa,32,1532.35,Salud y pensión,No,Formal
+1155,24,Femenino,Lima,Urbana,Microempresa,34,756.97,Salud y pensión,No,Informal
+1156,58,Femenino,Cusco,Urbana,Empleo formal,20,859.72,Solo salud,No,Informal
+1157,59,Femenino,Lambayeque,Urbana,Freelance,50,906.71,Ninguno,No,Informal
+1158,34,Masculino,Arequipa,Rural,Microempresa,22,1099.62,Ninguno,No,Informal
+1159,33,Masculino,San Martín,Urbana,Comercio ambulante,50,1022.41,Salud y pensión,Sí,Informal
+1160,39,Masculino,Cusco,Urbana,Freelance,38,389.34,Solo salud,No,Formal
+1161,19,Femenino,San Martín,Urbana,Empleo formal,37,861.92,Ninguno,No,Formal
+1162,60,Masculino,Cusco,Rural,Servicio doméstico,24,952.03,Ninguno,No,Formal
+1163,36,Masculino,Lima,Urbana,Empleo formal,22,1132.88,Ninguno,No,Formal
+1164,49,Femenino,Lambayeque,Rural,Servicio doméstico,21,1325.08,Solo salud,No,Formal
+1165,57,Femenino,Lima,Urbana,Comercio ambulante,58,1555.88,Ninguno,No,Informal
+1166,46,Masculino,San Martín,Rural,Microempresa,50,948.6,Ninguno,Sí,Informal
+1167,27,Masculino,Cusco,Urbana,Empleo formal,55,1189.51,Ninguno,No,Informal
+1168,27,Femenino,San Martín,Urbana,Comercio ambulante,39,677.38,Ninguno,Sí,Formal
+1169,49,Femenino,Arequipa,Rural,Empleo formal,11,676.15,Solo salud,Sí,Informal
+1170,29,Femenino,Lambayeque,Urbana,Comercio ambulante,52,868.07,Ninguno,No,Formal
+1171,58,Femenino,Cusco,Urbana,Comercio ambulante,38,1433.69,Solo salud,No,Informal
+1172,33,Masculino,San Martín,Urbana,Empleo formal,33,758.91,Ninguno,No,Informal
+1173,41,Femenino,San Martín,Urbana,Microempresa,59,1287.81,Ninguno,Sí,Formal
+1174,63,Masculino,Cusco,Urbana,Microempresa,17,641.23,Salud y pensión,Sí,Informal
+1175,52,Masculino,Huancavelica,Urbana,Microempresa,33,914.95,Solo salud,Sí,Informal
+1176,32,Masculino,San Martín,Urbana,Comercio ambulante,48,712.38,Ninguno,Sí,Informal
+1177,51,Masculino,Huancavelica,Rural,Microempresa,37,1070.29,Solo salud,No,Informal
+1178,49,Masculino,Huancavelica,Urbana,Empleo formal,36,758.84,Ninguno,No,Informal
+1179,28,Femenino,San Martín,Urbana,Microempresa,17,270.83,Solo salud,No,Formal
+1180,31,Femenino,Lambayeque,Rural,Microempresa,30,935.41,Ninguno,No,Informal
+1181,32,Masculino,Arequipa,Urbana,Comercio ambulante,15,701.41,Ninguno,No,Informal
+1182,48,Femenino,Arequipa,Urbana,Empleo formal,39,1207.36,Solo salud,No,Informal
+1183,28,Femenino,Lambayeque,Urbana,Microempresa,19,786.89,Solo salud,No,Formal
+1184,56,Masculino,Huancavelica,Urbana,Comercio ambulante,58,1204.59,Salud y pensión,No,Formal
+1185,52,Masculino,Huancavelica,Rural,Servicio doméstico,45,791.22,Solo salud,No,Informal
+1186,23,Femenino,Arequipa,Urbana,Microempresa,17,1224.69,Ninguno,No,Informal
+1187,41,Masculino,Lima,Urbana,Freelance,20,408.05,Ninguno,Sí,Informal
+1188,38,Femenino,Arequipa,Urbana,Microempresa,20,851.82,Ninguno,No,Informal
+1189,39,Masculino,Lambayeque,Urbana,Microempresa,44,1695.98,Salud y pensión,No,Formal
+1190,43,Masculino,Arequipa,Urbana,Servicio doméstico,20,431.97,Salud y pensión,Sí,Formal
+1191,25,Femenino,Huancavelica,Urbana,Comercio ambulante,27,1186.02,Ninguno,No,Informal
+1192,64,Femenino,Arequipa,Urbana,Empleo formal,23,1754.22,Solo salud,No,Informal
+1193,45,Femenino,San Martín,Urbana,Empleo formal,51,1057.92,Solo salud,No,Informal
+1194,23,Masculino,Lima,Urbana,Empleo formal,20,604.82,Ninguno,No,Informal
+1195,41,Femenino,Lambayeque,Rural,Microempresa,52,1283.14,Salud y pensión,No,Formal
+1196,38,Masculino,Lima,Urbana,Microempresa,54,1005.72,Ninguno,No,Informal
+1197,53,Femenino,Arequipa,Urbana,Servicio doméstico,37,828.94,Solo salud,No,Formal
+1198,61,Masculino,Huancavelica,Urbana,Empleo formal,32,1077.78,Salud y pensión,No,Informal
+1199,23,Masculino,Lambayeque,Rural,Comercio ambulante,14,1132.45,Ninguno,No,Informal
+1200,44,Femenino,Cusco,Urbana,Servicio doméstico,41,859.57,Ninguno,No,Formal
+1201,37,Masculino,San Martín,Rural,Comercio ambulante,39,1400.36,Salud y pensión,Sí,Informal
+1202,46,Masculino,Lambayeque,Urbana,Empleo formal,20,1759.39,Solo salud,Sí,Formal
+1203,20,Femenino,Huancavelica,Rural,Comercio ambulante,11,918.76,Ninguno,No,Informal
+1204,63,Masculino,San Martín,Urbana,Freelance,10,820.47,Ninguno,Sí,Informal
+1205,35,Masculino,Lambayeque,Urbana,Empleo formal,53,1169.91,Salud y pensión,No,Informal
+1206,53,Masculino,Arequipa,Urbana,Freelance,37,1582.18,Ninguno,No,Informal
+1207,26,Masculino,Arequipa,Urbana,Servicio doméstico,29,1767.76,Salud y pensión,No,Informal
+1208,63,Femenino,Arequipa,Urbana,Freelance,23,890.09,Ninguno,No,Formal
+1209,27,Femenino,Huancavelica,Urbana,Microempresa,34,1143.75,Salud y pensión,No,Informal
+1210,63,Masculino,Lima,Urbana,Comercio ambulante,54,750.8,Salud y pensión,Sí,Formal
+1211,54,Femenino,San Martín,Urbana,Freelance,11,1449.66,Ninguno,Sí,Informal
+1212,44,Femenino,Lima,Rural,Comercio ambulante,50,938.42,Salud y pensión,Sí,Informal
+1213,64,Femenino,Huancavelica,Urbana,Servicio doméstico,36,326.24,Solo salud,No,Formal
+1214,61,Femenino,Lambayeque,Urbana,Servicio doméstico,22,861.79,Ninguno,Sí,Informal
+1215,30,Masculino,Huancavelica,Urbana,Servicio doméstico,56,1205.94,Solo salud,No,Informal
+1216,63,Masculino,Lima,Rural,Microempresa,45,1571.56,Ninguno,No,Informal
+1217,36,Masculino,Huancavelica,Urbana,Microempresa,30,1038.27,Salud y pensión,Sí,Informal
+1218,64,Femenino,Arequipa,Rural,Empleo formal,22,1910.61,Solo salud,No,Formal
+1219,53,Masculino,Huancavelica,Rural,Servicio doméstico,19,1430.330028139739,Ninguno,Sí,Formal
+1220,27,Femenino,Arequipa,Urbana,Microempresa,19,1335.18,Ninguno,No,Informal
+1221,54,Masculino,Cusco,Rural,Servicio doméstico,46,481.87,Solo salud,No,Formal
+1222,64,Masculino,Cusco,Urbana,Freelance,11,797.54,Ninguno,No,Informal
+1223,31,Masculino,Lima,Urbana,Empleo formal,25,966.41,Ninguno,Sí,Informal
+1224,55,Femenino,San Martín,Urbana,Freelance,27,1045.36,Solo salud,Sí,Informal
+1225,38,Masculino,Arequipa,Rural,Servicio doméstico,21,1369.58,Ninguno,Sí,Informal
+1226,54,Masculino,Huancavelica,Urbana,Empleo formal,29,342.88,Salud y pensión,No,Formal
+1227,32,Femenino,San Martín,Urbana,Servicio doméstico,35,1016.92,Solo salud,No,Informal
+1228,42,Masculino,Lima,Urbana,Microempresa,22,1479.32,Ninguno,No,Informal
+1229,32,Masculino,San Martín,Urbana,Microempresa,13,1449.68,Ninguno,Sí,Informal
+1230,48,Masculino,Cusco,Urbana,Comercio ambulante,15,865.02,Solo salud,No,Informal
+1231,30,Masculino,Lambayeque,Urbana,Empleo formal,53,1193.36,Solo salud,Sí,Formal
+1232,52,Masculino,Huancavelica,Rural,Microempresa,19,875.82,Salud y pensión,Sí,Informal
+1233,33,Masculino,Cusco,Rural,Microempresa,12,987.9,Salud y pensión,Sí,Formal
+1234,23,Masculino,Arequipa,Urbana,Empleo formal,28,710.32,Solo salud,No,Informal
+1235,34,Femenino,Lima,Urbana,Servicio doméstico,53,581.76,Ninguno,No,Informal
+1236,19,Femenino,Huancavelica,Urbana,Freelance,17,1139.46,Solo salud,No,Informal
+1237,27,Femenino,San Martín,Rural,Comercio ambulante,40,1401.42,Ninguno,No,Informal
+1238,55,Femenino,Lambayeque,Urbana,Microempresa,47,1155.17,Solo salud,No,Informal
+1239,40,Masculino,Lima,Rural,Servicio doméstico,20,1756.77,Ninguno,No,Informal
+1240,63,Masculino,Huancavelica,Urbana,Microempresa,47,1262.07,Ninguno,Sí,Informal
+1241,46,Femenino,Cusco,Urbana,Servicio doméstico,32,1072.62,Solo salud,No,Formal
+1242,39,Masculino,San Martín,Urbana,Servicio doméstico,45,1826.13,Solo salud,Sí,Informal
+1243,24,Femenino,Lambayeque,Rural,Microempresa,24,714.59,Ninguno,No,Informal
+1244,38,Masculino,Huancavelica,Urbana,Empleo formal,26,395.09,Solo salud,No,Informal
+1245,21,Masculino,Lambayeque,Rural,Microempresa,42,1475.06,Solo salud,No,Formal
+1246,44,Femenino,Cusco,Urbana,Microempresa,35,1956.42,Ninguno,No,Informal
+1247,47,Masculino,Cusco,Urbana,Comercio ambulante,43,1058.0,Salud y pensión,No,Informal
+1248,41,Masculino,San Martín,Rural,Empleo formal,41,1174.82,Ninguno,No,Informal
+1249,31,Femenino,Huancavelica,Urbana,Comercio ambulante,55,909.34,Solo salud,No,Informal
+1250,59,Masculino,Arequipa,Rural,Empleo formal,39,701.63,Solo salud,Sí,Informal
+1251,22,Femenino,San Martín,Urbana,Freelance,49,1299.77,Ninguno,No,Informal
+1252,58,Femenino,San Martín,Urbana,Servicio doméstico,59,842.76,Solo salud,No,Informal
+1253,45,Masculino,Arequipa,Rural,Comercio ambulante,23,2184.73,Salud y pensión,No,Informal
+1254,28,Masculino,San Martín,Rural,Servicio doméstico,46,920.3,Solo salud,No,Informal
+1255,54,Masculino,Cusco,Rural,Microempresa,35,996.15,Salud y pensión,Sí,Informal
+1256,21,Masculino,Arequipa,Urbana,Microempresa,26,968.48,Ninguno,No,Formal
+1257,60,Masculino,Arequipa,Urbana,Microempresa,28,999.17,Ninguno,No,Informal
+1258,59,Masculino,Arequipa,Urbana,Comercio ambulante,13,1236.12,Solo salud,No,Informal
+1259,56,Femenino,San Martín,Urbana,Empleo formal,51,1096.69,Ninguno,No,Informal
+1260,47,Masculino,Cusco,Urbana,Microempresa,45,829.1,Ninguno,No,Informal
+1261,49,Masculino,Arequipa,Urbana,Comercio ambulante,56,764.37,Solo salud,Sí,Informal
+1262,41,Masculino,Lima,Urbana,Microempresa,43,686.32,Salud y pensión,No,Informal
+1263,62,Masculino,Arequipa,Urbana,Servicio doméstico,57,611.91,Ninguno,No,Informal
+1264,46,Masculino,San Martín,Urbana,Microempresa,34,282.17,Ninguno,Sí,Informal
+1265,23,Femenino,Cusco,Urbana,Servicio doméstico,54,1630.02,Solo salud,No,Formal
+1266,31,Masculino,San Martín,Urbana,Comercio ambulante,34,1548.57,Salud y pensión,No,Informal
+1267,63,Femenino,Lima,Rural,Microempresa,54,1093.63,Solo salud,Sí,Informal
+1268,18,Masculino,Huancavelica,Urbana,Microempresa,47,655.8,Solo salud,No,Formal
+1269,32,Femenino,San Martín,Urbana,Microempresa,10,1995.69,Ninguno,No,Informal
+1270,58,Masculino,Huancavelica,Rural,Empleo formal,24,1839.85,Solo salud,No,Formal
+1271,61,Masculino,San Martín,Rural,Freelance,56,1305.02,Ninguno,No,Formal
+1272,49,Femenino,Arequipa,Urbana,Microempresa,19,1619.67,Solo salud,Sí,Formal
+1273,64,Femenino,Lima,Urbana,Comercio ambulante,45,947.25,Solo salud,No,Formal
+1274,29,Masculino,Lambayeque,Urbana,Freelance,30,799.38,Solo salud,Sí,Informal
+1275,41,Masculino,San Martín,Urbana,Comercio ambulante,35,1239.88,Ninguno,Sí,Informal
+1276,64,Masculino,San Martín,Urbana,Servicio doméstico,51,516.2892462770831,Solo salud,No,Informal
+1277,53,Masculino,Cusco,Urbana,Empleo formal,26,161.39,Ninguno,Sí,Informal
+1278,62,Masculino,Cusco,Rural,Microempresa,40,1571.37,Ninguno,No,Informal
+1279,41,Masculino,San Martín,Urbana,Microempresa,35,1700.17,Ninguno,No,Informal
+1280,53,Femenino,Cusco,Rural,Comercio ambulante,56,942.99,Ninguno,Sí,Informal
+1281,36,Masculino,Huancavelica,Urbana,Microempresa,31,860.87,Solo salud,No,Informal
+1282,38,Femenino,Huancavelica,Rural,Comercio ambulante,53,1010.73,Solo salud,Sí,Informal
+1283,44,Femenino,Huancavelica,Rural,Comercio ambulante,41,1618.48,Ninguno,Sí,Informal
+1284,62,Masculino,Huancavelica,Urbana,Servicio doméstico,24,1075.23,Solo salud,No,Formal
+1285,45,Femenino,Cusco,Urbana,Comercio ambulante,36,1104.97,Solo salud,Sí,Informal
+1286,27,Masculino,San Martín,Urbana,Microempresa,50,1696.65,Ninguno,Sí,Informal
+1287,62,Femenino,Huancavelica,Urbana,Empleo formal,13,1757.84,Salud y pensión,No,Informal
+1288,61,Masculino,Cusco,Rural,Servicio doméstico,22,411.58,Solo salud,No,Formal
+1289,35,Femenino,Arequipa,Urbana,Comercio ambulante,35,568.55,Solo salud,Sí,Informal
+1290,38,Masculino,Cusco,Urbana,Servicio doméstico,53,683.5,Solo salud,No,Informal
+1291,24,Femenino,Lima,Urbana,Microempresa,16,1123.64,Solo salud,No,Informal
+1292,48,Masculino,Arequipa,Urbana,Microempresa,49,1674.34,Salud y pensión,No,Informal
+1293,43,Masculino,Lambayeque,Rural,Empleo formal,50,1290.98,Solo salud,Sí,Formal
+1294,23,Femenino,San Martín,Rural,Microempresa,10,795.36,Salud y pensión,No,Informal
+1295,51,Masculino,Lambayeque,Urbana,Microempresa,30,945.05,Ninguno,No,Informal
+1296,51,Masculino,Arequipa,Urbana,Microempresa,58,569.96,Ninguno,Sí,Informal
+1297,30,Masculino,San Martín,Urbana,Empleo formal,19,408.22,Solo salud,Sí,Informal
+1298,25,Masculino,Cusco,Rural,Empleo formal,53,837.61,Ninguno,No,Informal
+1299,57,Femenino,Lima,Urbana,Comercio ambulante,47,1540.77,Solo salud,Sí,Informal
+1300,44,Femenino,Arequipa,Rural,Comercio ambulante,57,1012.31,Solo salud,Sí,Informal
